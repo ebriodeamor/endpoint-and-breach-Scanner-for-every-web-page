@@ -1,0 +1,924 @@
+================================================================================
+ ATLASSCAN (NADIESCAN ENGINE) — MÓDULO DE INTELIGENCIA DE EXPOSICIÓN Y LEAKS
+================================================================================
+Versión de Auditoría:  1.0.0
+Normativa de Trabajo:  Auditoría Defensiva Autorizada / OSINT Pasivo / Verificación de Bajo Impacto
+
+Identificador de Expediente:  EXP_www.dian.gov.co_20261026_234943
+Ubicación de Archivos:        C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943
+
+================================================================================
+ 1. DOMINIO Y ALCANCE AUTORIZADO
+================================================================================
+Dominio Raíz:             www.dian.gov.co
+Estado de Autorización:   AUTORIZADO Y CONFIRMADO POR EL OPERADOR
+Política de Transporte:   WARP DIRECT
+Límite de Solicitudes:    2.0 req/s
+
+Subdominios Autorizados:
+  [+] *.dian.gov.co
+  [+] dian.gov.co
+  [+] www.dian.gov.co
+  [+] consultarentatest.dian.gov.co
+  [+] misionc.dian.gov.co
+  [+] dav.dian.gov.co
+  [+] smartboard.dian.gov.co
+  [+] estossonlosresultados.dian.gov.co
+  [+] agendamiento.dian.gov.co
+  [+] ctm00-001.dian.gov.co
+  [+] smartboardsw.dian.gov.co
+  [+] solicitudes.dian.gov.co
+  [+] videoatencion.dian.gov.co
+  [+] gratis-vpfe-hab.dian.gov.co
+  [+] salidademercancias.dian.gov.co
+  [+] b2cpoc.dian.gov.co
+  [+] agendamientodigiturno.dian.gov.co
+  [+] rematesvirtuales.dian.gov.co
+  [+] simuladorformalizacion.dian.gov.co
+  [+] gtma.dian.gov.co
+  [+] hagaloustedmismorenta2018.dian.gov.co
+  [+] certificadosdeorigen.dian.gov.co
+  [+] factura-electronica.dian.gov.co
+  [+] pqrswebapi.dian.gov.co
+  [+] sistematurnos.dian.gov.co
+  [+] portalrl.dian.gov.co
+  [+] api.dian.gov.co
+  [+] intercambio.dian.gov.co
+  [+] balanceador.dian.gov.co
+  [+] consultarenta.dian.gov.co
+  [+] hagaloustedmismorenta2019.dian.gov.co
+  [+] webazure.dian.gov.co
+  [+] ice.dian.gov.co
+  [+] hagaloustedmismorenta.dian.gov.co
+  [+] certificate-vpfe-hab.dian.gov.co
+  [+] ns1.comunicaciones.dian.gov.co
+  [+] descargas.dian.gov.co
+  [+] serviciosmuisca.dian.gov.co
+  [+] portales.dian.gov.co
+  [+] sgsst.dian.gov.co
+  [+] librotransformaciondian.dian.gov.co
+  [+] dataanalytics.dian.gov.co
+  [+] apipruebasexternas.dian.gov.co
+  [+] ns2.comunicaciones.dian.gov.co
+  [+] compilacionjuridica.dian.gov.co
+  [+] sistematurnossw.dian.gov.co
+  [+] catalogo-vpfe-hab.dian.gov.co
+  [+] player.dian.gov.co
+  [+] fiscalizacion.dian.gov.co
+  [+] micrositios.dian.gov.co
+  [+] bandejasalida.dian.gov.co
+  [+] ns1.informaciondian.dian.gov.co
+  [+] certificate-vpfe.dian.gov.co
+  [+] ada.dian.gov.co
+  [+] apipruebasazure.dian.gov.co
+  [+] simuladorformalizaciontest.dian.gov.co
+  [+] facturaelectronica.dian.gov.co
+  [+] autodiscover.dian.gov.co
+  [+] correo.dian.gov.co
+  [+] websiex.dian.gov.co
+  [+] grc.dian.gov.co
+  [+] importacionescarga.dian.gov.co
+  [+] csi.dian.gov.co
+  [+] hazlotumismorenta2020.dian.gov.co
+  [+] pqrsportal.dian.gov.co
+  [+] encuestas.dian.gov.co
+  [+] enmantenimiento.dian.gov.co
+  [+] mail.dian.gov.co
+  [+] catalogo-vpfe.dian.gov.co
+  [+] transfer.dian.gov.co
+  [+] sgdian.dian.gov.co
+  [+] kactusop.dian.gov.co
+  [+] transitoaduanero.dian.gov.co
+  [+] apiazure.dian.gov.co
+  [+] vpn2.dian.gov.co
+  [+] soyfuncionario.dian.gov.co
+  [+] hazlotumismorenta.dian.gov.co
+  [+] apidesarrolloazure.dian.gov.co
+  [+] webp.dian.gov.co
+  [+] normograma.dian.gov.co
+  [+] alertmanager.dian.gov.co
+  [+] dwncadenatest.dian.gov.co
+  [+] videoatencionser.dian.gov.co
+  [+] sso.dian.gov.co
+  [+] devolucion.dian.gov.co
+  [+] videoatencionresp.dian.gov.co
+  [+] muisca.dian.gov.co
+  [+] formulariosgratuitos.dian.gov.co
+  [+] miportal.dian.gov.co
+  [+] registrosyautorizaciones.dian.gov.co
+  [+] encuestassw.dian.gov.co
+  [+] importaciones.dian.gov.co
+  [+] agendamientoadmin.dian.gov.co
+  [+] biller-functions-hab.dian.gov.co
+  [+] agendamientoapi.dian.gov.co
+  [+] ns3.comunicaciones.dian.gov.co
+  [+] gratis-vpfe.dian.gov.co
+  [+] agendamientosw.dian.gov.co
+  [+] conexion.dian.gov.co
+  [+] backtest-cadena.dian.gov.co
+  [+] sf.dian.gov.co
+  [+] informaciondian.dian.gov.co
+  [+] vpn.dian.gov.co
+
+Exclusiones Expresas:
+  (Ninguna exclusión configurada)
+
+================================================================================
+ 2. FECHA Y HORA DE EJECUCIÓN
+================================================================================
+Fecha/Hora de Inicio:     2026-10-26T23:49:43.673056
+Fecha/Hora de Emisión:    2026-10-27T00:01:36.503889
+
+================================================================================
+ 3. FUENTES CONSULTADAS Y ESTADO DE DISPONIBILIDAD
+================================================================================
+FUENTE                           CATEGORÍA        ESTADO             HALLAZGOS 
+--------------------------------------------------------------------------------
+Transparencia de Certificados (crt.sh / TLS SANs) OSINT            SUCCESS            1         
+   └─ Detalle: 101 subdominios en alcance descubiertos (crt.sh no disponible (HTTPSConnectionPool(host='crt.sh', port=443): Max retries exceeded with url: /?q=%25.dian.gov.co&output=json (Caused by ReadTimeoutError("HTTPSConnectionPool(host='crt.sh', port=443): Read timed out. (read timeout=8.0)"))); Certificado TLS SANs (73 subdominios); HackerTarget DNS (50 subdominios)).
+Índices de Buscadores y Consultas Estructuradas OSINT            SUCCESS            5         
+   └─ Detalle: 5 vectores de búsqueda pasiva documentados para revisión humana.
+Repositorios Públicos (GitHub Search API) OSINT            NO CONFIGURADO     0         
+   └─ Detalle: Límite de peticiones de GitHub API alcanzado o token no configurado. Configure un GITHUB_TOKEN válido en variables de entorno para consultas autenticadas.
+Inteligencia de Filtraciones (HIBP / Breach API) BREACH_INTEL     NO CONFIGURADO     0         
+   └─ Detalle: NO CONFIGURADO (Requiere HIBP_API_KEY en variables de entorno)
+Comprobaciones HTTP Directas de Bajo Impacto DIRECT_CHECK     SUCCESS            12        
+   └─ Detalle: 3760 comprobaciones directas completadas sobre 80 destino(s) en 662.71s.
+
+================================================================================
+ 4. RESUMEN EJECUTIVO
+================================================================================
+Se identificaron 12 exposición(es) clasificada(s) como VULNERABILIDAD CONFIRMADA que
+requieren remediación prioritaria para evitar fugas de información sensible.
+
+================================================================================
+ 5. CONTEO Y CLASIFICACIÓN DE HALLAZGOS
+================================================================================
+Total de Hallazgos Registrados:                18
+  • Vulnerabilidades Confirmadas (CONFIRMED):   12
+  • Pendientes de Validación (VALIDATION_REQ):  0
+  • Observaciones Pasivas (OBSERVATION):        6
+
+Distribución por Severidad:
+  • Crítico:      8
+  • Alto:         0
+  • Medio:        0
+  • Bajo:         9
+  • Informativo:  1
+
+================================================================================
+ 6. DETALLE INDIVIDUAL DE HALLAZGOS
+================================================================================
+[EXP-001] PASSIVE_OSINT_REFERENCE — dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   INFORMATIVO
+  • Fuente:               osint_crtsh
+  • URL de Referencia:    https://crt.sh/?q=%.dian.gov.co
+  • Fecha de Detección:   2026-10-26T23:50:06.048031
+
+  • Riesgo Potencial:
+      Mapeo pasivo de la superficie de ataque externa e infraestructura del dominio.
+
+  • Impacto Demostrado:
+      Descubrimiento de 101 subdominios asociados a 'dian.gov.co'.
+
+  • Limitaciones de la Comprobación:
+      Identificación mediante logs públicos y metadatos de certificados SSL/TLS activos.
+
+  • Evidencia Redactada:
+      | Total subdominios en alcance identificados por certificados y DNS: 101
+      | Muestra de activos:
+      | consultarentatest.dian.gov.co, misionc.dian.gov.co, dav.dian.gov.co, smartboard.dian.gov.co, estossonlosresultados.dian.gov.co, agendamiento.dian.gov.co, ctm00-001.dian.gov.co, smartboardsw.dian.gov.co, solicitudes.dian.gov.co, videoatencion.dian.gov.co, gratis-vpfe-hab.dian.gov.co, salidademercancias.dian.gov.co, b2cpoc.dian.gov.co, agendamientodigiturno.dian.gov.co, rematesvirtuales.dian.gov.co, simuladorformalizacion.dian.gov.co, gtma.dian.gov.co, hagaloustedmismorenta2018.dian.gov.co, certificadosdeorigen.dian.gov.co, factura-electronica.dian.gov.co, pqrswebapi.dian.gov.co, sistematurnos.dian.gov.co, portalrl.dian.gov.co, dian.gov.co, api.dian.gov.co ... (+76 adicionales)
+
+  • Pasos de Reproducción Segura:
+      Inspeccionar SANs en certificado SSL de www.dian.gov.co o crt.sh
+
+  • Recomendación de Remediación:
+      Monitorear registros de certificados y restringir el acceso a entornos no productivos.
+==========================================================================
+
+[EXP-002] BACKUP_DATABASE_EXPOSURE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29
+  • Fecha de Detección:   2026-10-26T23:50:06.049612
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:sql | ext:dump | ext:bak | ext:backup | ext:db)
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29
+      |   Objetivo: Búsqueda de archivos SQL, respaldos o volcados de datos indexados públicamente.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-003] EXPOSED_CONFIG — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29
+  • Fecha de Detección:   2026-10-26T23:50:06.049692
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:env | ext:yml | ext:json | inurl:web.config | inurl:settings)
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29
+      |   Objetivo: Búsqueda de configuraciones y definiciones con posibles secretos expuestos.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-004] DIRECTORY_LISTING — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22
+  • Fecha de Detección:   2026-10-26T23:50:06.049739
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co intitle:"index of" | intitle:"directory listing"
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22
+      |   Objetivo: Detección de índices web accesibles sin página por defecto.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-005] SENSITIVE_FILE_EXPOSURE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29
+  • Fecha de Detección:   2026-10-26T23:50:06.049779
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:pdf | ext:xlsx | ext:docx | ext:csv) ("confidencial" | "privado" | "interno")
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29
+      |   Objetivo: Búsqueda de documentos corporativos o datos personales indexados por motores de búsqueda.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-006] DIAGNOSTIC_INTERFACE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator
+  • Fecha de Detección:   2026-10-26T23:50:06.049817
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co inurl:phpinfo | inurl:server-status | inurl:actuator
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator
+      |   Objetivo: Identificación de interfaces diagnósticas indexadas públicamente.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-007] DIAGNOSTIC_INTERFACE — intercambio.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://intercambio.dian.gov.co/actuator/env
+  • Fecha de Detección:   2026-10-26T23:54:55.188365
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/env).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://intercambio.dian.gov.co/actuator/env'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-008] DIAGNOSTIC_INTERFACE — intercambio.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://intercambio.dian.gov.co/actuator/heapdump
+  • Fecha de Detección:   2026-10-26T23:54:55.198292
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/heapdump).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://intercambio.dian.gov.co/actuator/heapdump'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-009] DIAGNOSTIC_INTERFACE — intercambio.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   BAJO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://intercambio.dian.gov.co/actuator/health
+  • Fecha de Detección:   2026-10-26T23:54:57.285638
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/health).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://intercambio.dian.gov.co/actuator/health'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-010] DIAGNOSTIC_INTERFACE — portales.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://portales.dian.gov.co/actuator/heapdump
+  • Fecha de Detección:   2026-10-26T23:55:08.059659
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/heapdump).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://portales.dian.gov.co/actuator/heapdump'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-011] DIAGNOSTIC_INTERFACE — formulariosgratuitos.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://formulariosgratuitos.dian.gov.co/actuator/env
+  • Fecha de Detección:   2026-10-26T23:56:18.456224
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/env).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlJdf*9'&g:()$y@uAR:
+      | @VqI~[Z\[ZXЀD,ZQYZ@	>/17V,3 IiyfJImJjYfr.Y[jkNf^BQjR&P(T
+      | ]$	pDCc&)?RhRnbQzfAAu~YjQZN~nBFfJJj5Ăݢ0kZ]ZQ\\
+      | Q
+      | !N r+t3RRXׂʁBRpEI@ˊK
+      | a
+      | 
+      | IEy)9EV
+      | %H*KJsQ@IM+x!V_
+      | 
+      | |2+RSeg@#)`	Z
+      | p R2rSIϔ .Pğ.q樒?&&甖{@7ѩ
+      | @]Z
+      | 
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://formulariosgratuitos.dian.gov.co/actuator/env'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-012] DIAGNOSTIC_INTERFACE — formulariosgratuitos.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://formulariosgratuitos.dian.gov.co/actuator/heapdump
+  • Fecha de Detección:   2026-10-26T23:56:18.481343
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/heapdump).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlJdf*9'&g:()$y@uAR:
+      | @VqI~[Z\[ZXЀD,ZQYZ@	>/17V,3 IiyfJImJjYfr.Y[jkNf^BQjR&P(T
+      | ]$	pDCc&)?RhRnbQzfAAu~YjQZN~nBFfJJj5Ăݢ0kZ]ZQ\\
+      | Q
+      | !N r+t3RRXׂʁBRpEI@ˊK
+      | a
+      | 
+      | IEy)9EV
+      | %H*KJsQ@IM+x!V_
+      | 
+      | |2+RSeg@#)`	Z
+      | p R2rSIϔ .Pğ.q樒?&&甖{@7ѩ
+      | @]Z
+      | 
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://formulariosgratuitos.dian.gov.co/actuator/heapdump'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-013] DIAGNOSTIC_INTERFACE — formulariosgratuitos.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   BAJO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://formulariosgratuitos.dian.gov.co/actuator/health
+  • Fecha de Detección:   2026-10-26T23:56:18.509973
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/health).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlJdf*9'&g:()$y@uAR:
+      | @VqI~[Z\[ZXЀD,ZQYZ@	>/17V,3 IiyfJImJjYfr.Y[jkNf^BQjR&P(T
+      | ]$	pDCc&)?RhRnbQzfAAu~YjQZN~nBFfJJj5Ăݢ0kZ]ZQ\\
+      | Q
+      | !N r+t3RRXׂʁBRpEI@ˊK
+      | a
+      | 
+      | IEy)9EV
+      | %H*KJsQ@IM+x!V_
+      | 
+      | |2+RSeg@#)`	Z
+      | p R2rSIϔ .Pğ.q樒?&&甖{@7ѩ
+      | @]Z
+      | 
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://formulariosgratuitos.dian.gov.co/actuator/health'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-014] DIAGNOSTIC_INTERFACE — serviciosmuisca.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://serviciosmuisca.dian.gov.co/actuator/env
+  • Fecha de Detección:   2026-10-26T23:57:40.491279
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/env).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://serviciosmuisca.dian.gov.co/actuator/env'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-015] DIAGNOSTIC_INTERFACE — serviciosmuisca.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   BAJO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://serviciosmuisca.dian.gov.co/actuator/health
+  • Fecha de Detección:   2026-10-26T23:57:40.738139
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/health).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       Qtw
+      | pU(ͱ
+      | 9yJyJ@Xjb
+      | `ZXTZbTZkRKMU*L-//*QRH+I,L)ɰMI-LNst22K2stsRm
+      | u32uKu2KlM())M-,,U-MM-H,LIE&365%=1hBQjRq9ɥ%
+      | @J
+      | Ei@Źyi@g	2[C%G*Rr3J@&d*AA-+,Is,JMNTOږj[PZ\_PRXw> YC
+      | \\_R\RX tJ
+      | PD	곒J!%ȞF#M5X
+      | ẑh Vg%%BDm
+      | KS*uL
+      | .*Vч(XMAEX_ZCaO)hAXL
+      | @s3Ӂ'HH:LFQW3/Ԁ0G饩fFbIR~.X!'H!-(M*FjZRQTZRoWRQ[X,LBha2!_<5IMHq*0 Քd))5%)`3h^IFjFQjqA~^q
+      | 0Cz %pE2(tca
+      | %@
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://serviciosmuisca.dian.gov.co/actuator/health'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-016] DIAGNOSTIC_INTERFACE — bandejasalida.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://bandejasalida.dian.gov.co/actuator/env
+  • Fecha de Detección:   2026-10-26T23:57:59.463672
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/env).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlAJ%*e()$畤-L)ɰMI-LNst22K2stsRm
+      | de+*g H.-Q1-hD~
+      | PR V)371=UB
+      | * %@74V919#U蛢
+      | $o&t" +D(,1'3%$UIA)
+      | 
+      | (JLMbn-EHz
+      | @jVUp-./V(H,JT-I*LL<9O!%U!(?173/]AW) YY_\YPR__g%
+      | ʜT`tC´$D 75%3$(ؗ
+      | q~VaijQ^N~bJjqvBFmS*mr3
+      | 
+      | *Rru+22SRRJ,(-/|ftK
+      | 
+      | !N r+t3RRXׂʁBRpEI@ˊK
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://bandejasalida.dian.gov.co/actuator/env'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-017] DIAGNOSTIC_INTERFACE — bandejasalida.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   BAJO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://bandejasalida.dian.gov.co/actuator/health
+  • Fecha de Detección:   2026-10-26T23:57:59.500440
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/health).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlAJ%*e()$畤-L)ɰMI-LNst22K2stsRm
+      | de+*g H.-Q1-hD~
+      | PR V)371=UB
+      | * %@74V919#U蛢
+      | $o&t" +D(,1'3%$UIA)
+      | 
+      | (JLMbn-EHz
+      | @jVUp-./V(H,JT-I*LL<9O!%U!(?173/]AW) YY_\YPR__g%
+      | ʜT`tC´$D 75%3$(ؗ
+      | q~VaijQ^N~bJjqvBFmS*mr3
+      | 
+      | *Rru+22SRRJ,(-/|ftK
+      | 
+      | !N r+t3RRXׂʁBRpEI@ˊK
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://bandejasalida.dian.gov.co/actuator/health'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+[EXP-018] DIAGNOSTIC_INTERFACE — bandejasalida.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  CONFIRMED_VULNERABILITY
+  • Nivel de Severidad:   CRITICO
+  • Fuente:               direct_http_verifier
+  • URL de Referencia:    https://bandejasalida.dian.gov.co/actuator/heapdump
+  • Fecha de Detección:   2026-10-26T23:57:59.601580
+
+  • Riesgo Potencial:
+      Divulgación de variables de configuración, perfiles y estado interno de la aplicación.
+
+  • Impacto Demostrado:
+      Endpoint Spring Boot Actuator expuesto (/actuator/heapdump).
+
+  • Limitaciones de la Comprobación:
+      Inspección pasiva limitada a los primeros 8 KB de respuesta mediante conexión directa autorizada.
+
+  • Evidencia Redactada:
+      |       QLO.,HU(ͱ
+      | 9yJyJ` `ZXTZbTZkR),IstчI@RlAJ%*e()$畤-L)ɰMI-LNst22K2stsRm
+      | de+*g H.-Q1-hD~
+      | PR V)371=UB
+      | * %@74V919#U蛢
+      | $o&t" +D(,1'3%$UIA)
+      | 
+      | (JLMbn-EHz
+      | @jVUp-./V(H,JT-I*LL<9O!%U!(?173/]AW) YY_\YPR__g%
+      | ʜT`tC´$D 75%3$(ؗ
+      | q~VaijQ^N~bJjqvBFmS*mr3
+      | 
+      | *Rru+22SRRJ,(-/|ftK
+      | 
+      | !N r+t3RRXׂʁBRpEI@ˊK
+
+  • Pasos de Reproducción Segura:
+      curl -I -s -A 'AtlasScan-Audit/1.0' 'https://bandejasalida.dian.gov.co/actuator/heapdump'
+
+  • Recomendación de Remediación:
+      Configurar management.endpoints.web.exposure.exclude=* en application.properties.
+==========================================================================
+
+================================================================================
+ 7. EVIDENCIAS Y REFERENCIAS SEGURAS
+================================================================================
+Todas las evidencias han sido redactadas para suprimir contraseñas, claves y datos personales.
+Carpeta de evidencias asociadas:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\evidence
+Carpeta de referencias externas:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\references
+
+================================================================================
+ 8. IMPACTO DEMOSTRADO VS. HIPÓTESIS
+================================================================================
+En estricto cumplimiento ético y defensivo:
+1. Hechos Demostrados: Únicamente los códigos de respuesta, cabeceras y fragmentos
+   de configuración accesibles sin autenticación capturados de forma directa.
+2. Hipótesis / Indicios: Coincidencias en repositorios externos, índices de búsqueda
+   o registros pasivos cuya explotación no ha sido ni debe ser ensayada.
+3. No se realizaron accesos no autorizados, descargas masivas de tablas ni pruebas
+   de credenciales contra servicios en producción.
+
+================================================================================
+ 9. JUSTIFICACIÓN DE NIVELES DE RIESGO
+================================================================================
+• CRÍTICO: Archivos de credenciales en producción (.env, .git expuesto) con acceso directo.
+• ALTO:    Backups de bases de datos accesibles (.sql, .dump) o listados de directorios sensibles.
+• MEDIO:   Interfaces de diagnóstico activas (phpinfo, actuator) o patrones de tokens en código.
+• BAJO:    Archivos de configuración con información no sensible o páginas informativas.
+• INFO:    Referencias pasivas OSINT, subdominios en certificados o enlaces de búsqueda.
+
+================================================================================
+ 10. PAUTAS DE REPRODUCCIÓN DE BAJO IMPACTO
+================================================================================
+Para validar los hallazgos sin afectar la disponibilidad del servicio:
+  curl -I -s -A 'SecurityAudit/1.0' '<URL_DEL_HALLAZGO>'
+Verifique el código HTTP devuelto y las cabeceras Content-Type sin descargar el cuerpo completo.
+
+================================================================================
+ 11. RECOMENDACIONES GENERALES DE REMEDIACIÓN
+================================================================================
+1. Configuración de Servidor Web (Nginx / Apache / IIS):
+   - Denegar explícitamente el acceso a archivos y directorios ocultos (.*).
+   - Desactivar de forma global el listado de directorios (Options -Indexes en Apache,
+     autoindex off en Nginx).
+2. Manejo de Copias de Seguridad y Bases de Datos:
+   - Almacenar los respaldos (.sql, .bak, .zip) fuera de la raíz web pública (document root).
+   - Proteger los directorios de subidas y descargas con autenticación adecuada.
+3. Rotación Inmediata de Secretos:
+   - Si un archivo .env o repositorio público expuso credenciales, revocar y rotar
+     inmediatamente las claves afectadas en el proveedor de nube o servicio.
+4. Control de Versiones:
+   - Incorporar reglas en .gitignore para evitar la inclusión accidental de claves y .env.
+   - Implementar escaneos automáticos de secretos (pre-commit hooks) en CI/CD.
+
+================================================================================
+ 12. LIMITACIONES DE COBERTURA
+================================================================================
+• Las consultas pasivas reflejan el estado histórico o indexado por terceros y pueden no
+  reflejar cambios recientes en la infraestructura.
+• No se realizan intentos de elusión de WAF, evasión de CAPTCHA ni pruebas intrusivas.
+• Las fuentes de inteligencia con requerimiento de API Key no configurada no aportaron datos.
+
+================================================================================
+ 13. ANEXOS Y ARCHIVOS DEL EXPEDIENTE
+================================================================================
+  • Reporte técnico consolidado:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\report.txt
+  • Estructura de hallazgos JSON: C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\findings.json
+  • Resumen de fuentes:           C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\sources.json
+  • Metadatos y alcance:          C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\README.txt
+  • Directorio de evidencias:     C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\evidence
+  • Directorio de referencias:    C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_234943\references
+
+================================================================================
+ 14. AVISO DE REVISIÓN HUMANA OBLIGATORIA
+================================================================================
+IMPORTANTE:
+Este informe fue generado por un sistema automatizado de asistencia en auditoría defensiva.
+Antes de compartir este documento con la organización o clientes finales, un auditor de
+seguridad calificado DEBE revisar, validar y contextualizar cada uno de los hallazgos.
+================================================================================

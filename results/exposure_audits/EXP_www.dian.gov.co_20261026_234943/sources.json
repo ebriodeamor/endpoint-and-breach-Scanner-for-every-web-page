@@ -1,0 +1,47 @@
+[
+  {
+    "source_id": "osint_crtsh",
+    "name": "Transparencia de Certificados (crt.sh / TLS SANs)",
+    "category": "OSINT",
+    "status": "SUCCESS",
+    "findings_count": 1,
+    "duration_seconds": 22.33,
+    "message": "101 subdominios en alcance descubiertos (crt.sh no disponible (HTTPSConnectionPool(host='crt.sh', port=443): Max retries exceeded with url: /?q=%25.dian.gov.co&output=json (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='crt.sh', port=443): Read timed out. (read timeout=8.0)\"))); Certificado TLS SANs (73 subdominios); HackerTarget DNS (50 subdominios))."
+  },
+  {
+    "source_id": "osint_search_engines",
+    "name": "Índices de Buscadores y Consultas Estructuradas",
+    "category": "OSINT",
+    "status": "SUCCESS",
+    "findings_count": 5,
+    "duration_seconds": 0.0,
+    "message": "5 vectores de búsqueda pasiva documentados para revisión humana."
+  },
+  {
+    "source_id": "osint_public_repos",
+    "name": "Repositorios Públicos (GitHub Search API)",
+    "category": "OSINT",
+    "status": "NO CONFIGURADO",
+    "findings_count": 0,
+    "duration_seconds": 0.47,
+    "message": "Límite de peticiones de GitHub API alcanzado o token no configurado. Configure un GITHUB_TOKEN válido en variables de entorno para consultas autenticadas."
+  },
+  {
+    "source_id": "osint_breach_intel",
+    "name": "Inteligencia de Filtraciones (HIBP / Breach API)",
+    "category": "BREACH_INTEL",
+    "status": "NO CONFIGURADO",
+    "findings_count": 0,
+    "duration_seconds": 0.0,
+    "message": "NO CONFIGURADO (Requiere HIBP_API_KEY en variables de entorno)"
+  },
+  {
+    "source_id": "direct_http_verifier",
+    "name": "Comprobaciones HTTP Directas de Bajo Impacto",
+    "category": "DIRECT_CHECK",
+    "status": "SUCCESS",
+    "findings_count": 12,
+    "duration_seconds": 662.71,
+    "message": "3760 comprobaciones directas completadas sobre 80 destino(s) en 662.71s."
+  }
+]

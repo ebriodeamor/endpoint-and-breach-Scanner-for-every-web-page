@@ -1,0 +1,13 @@
+{
+  "target": "https://balanceador.dian.gov.co",
+  "time": "2026-10-26T23:18:17.564603",
+  "audit": {
+    "url": "https://balanceador.dian.gov.co",
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='balanceador.dian.gov.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000011FC3142990>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+    "ts": "2026-10-26T23:18:11.416741",
+    "elapsed": 0.06
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

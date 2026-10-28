@@ -1,0 +1,14 @@
+# ====================================================================
+# NadieScan - Archivo de ejemplo para escaneo de múltiples dominios
+# ====================================================================
+# Puedes ingresar dominios separados por comas, saltos de línea o ambos.
+# También puedes incluir URLs completas (https://...) o solo dominios.
+# Las líneas que comiencen con '#' son comentarios y serán ignoradas.
+# ====================================================================
+
+# Ejemplo de dominios separados por comas:
+httpbin.org, scanme.nmap.org
+
+# O un dominio por línea:
+# ejemplo1.com
+# ejemplo2.com, ejemplo3.com

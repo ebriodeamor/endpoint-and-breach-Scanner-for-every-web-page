@@ -1,0 +1,13 @@
+{
+  "target": "https://autodiscover.dian.gov.co",
+  "time": "2026-10-26T23:18:11.396215",
+  "audit": {
+    "url": "https://autodiscover.dian.gov.co",
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='autodiscover.dian.gov.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000011FC2B47C50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))",
+    "ts": "2026-10-26T21:54:33.985982",
+    "elapsed": 80.81
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

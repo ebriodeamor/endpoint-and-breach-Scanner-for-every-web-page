@@ -1,0 +1,5 @@
+Consulta estructurada generada para indexadores públicos:
+  Query:   site:www.dian.gov.co (ext:env | ext:yml | ext:json | inurl:web.config | inurl:settings)
+  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29
+  Objetivo: Búsqueda de configuraciones y definiciones con posibles secretos expuestos.
+Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.

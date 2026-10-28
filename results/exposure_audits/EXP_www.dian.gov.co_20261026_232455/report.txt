@@ -1,0 +1,301 @@
+================================================================================
+ ATLASSCAN (NADIESCAN ENGINE) — MÓDULO DE INTELIGENCIA DE EXPOSICIÓN Y LEAKS
+================================================================================
+Versión de Auditoría:  1.0.0
+Normativa de Trabajo:  Auditoría Defensiva Autorizada / OSINT Pasivo / Verificación de Bajo Impacto
+
+Identificador de Expediente:  EXP_www.dian.gov.co_20261026_232455
+Ubicación de Archivos:        C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455
+
+================================================================================
+ 1. DOMINIO Y ALCANCE AUTORIZADO
+================================================================================
+Dominio Raíz:             www.dian.gov.co
+Estado de Autorización:   AUTORIZADO Y CONFIRMADO POR EL OPERADOR
+Política de Transporte:   WARP STRICT
+Límite de Solicitudes:    2.0 req/s
+
+Subdominios Autorizados:
+  [!] Únicamente el dominio raíz autorizado.
+
+Exclusiones Expresas:
+  (Ninguna exclusión configurada)
+
+================================================================================
+ 2. FECHA Y HORA DE EJECUCIÓN
+================================================================================
+Fecha/Hora de Inicio:     2026-10-26T23:24:55.529318
+Fecha/Hora de Emisión:    2026-10-26T23:25:05.647282
+
+================================================================================
+ 3. FUENTES CONSULTADAS Y ESTADO DE DISPONIBILIDAD
+================================================================================
+FUENTE                           CATEGORÍA        ESTADO             HALLAZGOS 
+--------------------------------------------------------------------------------
+Transparencia de Certificados (crt.sh) OSINT            ERROR              0         
+   └─ Detalle: Fallo de conexión con crt.sh: HTTPSConnectionPool(host='crt.sh', port=443): Max retries exceeded with url: /?q=%25.www.dian.gov.co&output=json (Caused by ResponseError('too many 502 error responses'))
+Índices de Buscadores y Consultas Estructuradas OSINT            SUCCESS            5         
+   └─ Detalle: 5 vectores de búsqueda pasiva documentados para revisión humana.
+Repositorios Públicos (GitHub Search API) OSINT            ERROR              0         
+   └─ Detalle: GitHub API devolvió código HTTP 401.
+Inteligencia de Filtraciones (HIBP / Breach API) BREACH_INTEL     NO CONFIGURADO     0         
+   └─ Detalle: NO CONFIGURADO (Requiere HIBP_API_KEY en variables de entorno)
+Comprobaciones HTTP Directas de Bajo Impacto DIRECT_CHECK     SUCCESS            0         
+   └─ Detalle: 47 comprobaciones directas completadas sobre 1 destino(s) en 8.09s.
+
+================================================================================
+ 4. RESUMEN EJECUTIVO
+================================================================================
+Se identificaron observaciones pasivas y referencias públicas que sirven como contexto
+de exposición externa, sin evidenciar acceso directo a datos confidenciales.
+
+================================================================================
+ 5. CONTEO Y CLASIFICACIÓN DE HALLAZGOS
+================================================================================
+Total de Hallazgos Registrados:                5
+  • Vulnerabilidades Confirmadas (CONFIRMED):   0
+  • Pendientes de Validación (VALIDATION_REQ):  0
+  • Observaciones Pasivas (OBSERVATION):        5
+
+Distribución por Severidad:
+  • Crítico:      0
+  • Alto:         0
+  • Medio:        0
+  • Bajo:         5
+  • Informativo:  0
+
+================================================================================
+ 6. DETALLE INDIVIDUAL DE HALLAZGOS
+================================================================================
+[EXP-001] BACKUP_DATABASE_EXPOSURE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29
+  • Fecha de Detección:   2026-10-26T23:24:56.999972
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:sql | ext:dump | ext:bak | ext:backup | ext:db)
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29
+      |   Objetivo: Búsqueda de archivos SQL, respaldos o volcados de datos indexados públicamente.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-002] EXPOSED_CONFIG — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29
+  • Fecha de Detección:   2026-10-26T23:24:57.000069
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:env | ext:yml | ext:json | inurl:web.config | inurl:settings)
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29
+      |   Objetivo: Búsqueda de configuraciones y definiciones con posibles secretos expuestos.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-003] DIRECTORY_LISTING — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22
+  • Fecha de Detección:   2026-10-26T23:24:57.000119
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co intitle:"index of" | intitle:"directory listing"
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22
+      |   Objetivo: Detección de índices web accesibles sin página por defecto.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-004] SENSITIVE_FILE_EXPOSURE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29
+  • Fecha de Detección:   2026-10-26T23:24:57.000144
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co (ext:pdf | ext:xlsx | ext:docx | ext:csv) ("confidencial" | "privado" | "interno")
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29
+      |   Objetivo: Búsqueda de documentos corporativos o datos personales indexados por motores de búsqueda.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29 en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+[EXP-005] DIAGNOSTIC_INTERFACE — www.dian.gov.co
+--------------------------------------------------------------------------
+  • Estado Verificación:  OBSERVATION
+  • Nivel de Severidad:   BAJO
+  • Fuente:               osint_search_engines
+  • URL de Referencia:    https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator
+  • Fecha de Detección:   2026-10-26T23:24:57.000167
+
+  • Riesgo Potencial:
+      Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.
+
+  • Impacto Demostrado:
+      Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.
+
+  • Limitaciones de la Comprobación:
+      La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.
+
+  • Evidencia Redactada:
+      | Consulta estructurada generada para indexadores públicos:
+      |   Query:   site:www.dian.gov.co inurl:phpinfo | inurl:server-status | inurl:actuator
+      |   Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator
+      |   Objetivo: Identificación de interfaces diagnósticas indexadas públicamente.
+      | Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.
+
+  • Pasos de Reproducción Segura:
+      Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator en un navegador autorizado y revisar los resultados devueltos.
+
+  • Recomendación de Remediación:
+      Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.
+==========================================================================
+
+================================================================================
+ 7. EVIDENCIAS Y REFERENCIAS SEGURAS
+================================================================================
+Todas las evidencias han sido redactadas para suprimir contraseñas, claves y datos personales.
+Carpeta de evidencias asociadas:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\evidence
+Carpeta de referencias externas:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\references
+
+================================================================================
+ 8. IMPACTO DEMOSTRADO VS. HIPÓTESIS
+================================================================================
+En estricto cumplimiento ético y defensivo:
+1. Hechos Demostrados: Únicamente los códigos de respuesta, cabeceras y fragmentos
+   de configuración accesibles sin autenticación capturados de forma directa.
+2. Hipótesis / Indicios: Coincidencias en repositorios externos, índices de búsqueda
+   o registros pasivos cuya explotación no ha sido ni debe ser ensayada.
+3. No se realizaron accesos no autorizados, descargas masivas de tablas ni pruebas
+   de credenciales contra servicios en producción.
+
+================================================================================
+ 9. JUSTIFICACIÓN DE NIVELES DE RIESGO
+================================================================================
+• CRÍTICO: Archivos de credenciales en producción (.env, .git expuesto) con acceso directo.
+• ALTO:    Backups de bases de datos accesibles (.sql, .dump) o listados de directorios sensibles.
+• MEDIO:   Interfaces de diagnóstico activas (phpinfo, actuator) o patrones de tokens en código.
+• BAJO:    Archivos de configuración con información no sensible o páginas informativas.
+• INFO:    Referencias pasivas OSINT, subdominios en certificados o enlaces de búsqueda.
+
+================================================================================
+ 10. PAUTAS DE REPRODUCCIÓN DE BAJO IMPACTO
+================================================================================
+Para validar los hallazgos sin afectar la disponibilidad del servicio:
+  curl -I -s -A 'SecurityAudit/1.0' '<URL_DEL_HALLAZGO>'
+Verifique el código HTTP devuelto y las cabeceras Content-Type sin descargar el cuerpo completo.
+
+================================================================================
+ 11. RECOMENDACIONES GENERALES DE REMEDIACIÓN
+================================================================================
+1. Configuración de Servidor Web (Nginx / Apache / IIS):
+   - Denegar explícitamente el acceso a archivos y directorios ocultos (.*).
+   - Desactivar de forma global el listado de directorios (Options -Indexes en Apache,
+     autoindex off en Nginx).
+2. Manejo de Copias de Seguridad y Bases de Datos:
+   - Almacenar los respaldos (.sql, .bak, .zip) fuera de la raíz web pública (document root).
+   - Proteger los directorios de subidas y descargas con autenticación adecuada.
+3. Rotación Inmediata de Secretos:
+   - Si un archivo .env o repositorio público expuso credenciales, revocar y rotar
+     inmediatamente las claves afectadas en el proveedor de nube o servicio.
+4. Control de Versiones:
+   - Incorporar reglas en .gitignore para evitar la inclusión accidental de claves y .env.
+   - Implementar escaneos automáticos de secretos (pre-commit hooks) en CI/CD.
+
+================================================================================
+ 12. LIMITACIONES DE COBERTURA
+================================================================================
+• Las consultas pasivas reflejan el estado histórico o indexado por terceros y pueden no
+  reflejar cambios recientes en la infraestructura.
+• No se realizan intentos de elusión de WAF, evasión de CAPTCHA ni pruebas intrusivas.
+• Las fuentes de inteligencia con requerimiento de API Key no configurada no aportaron datos.
+
+================================================================================
+ 13. ANEXOS Y ARCHIVOS DEL EXPEDIENTE
+================================================================================
+  • Reporte técnico consolidado:  C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\report.txt
+  • Estructura de hallazgos JSON: C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\findings.json
+  • Resumen de fuentes:           C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\sources.json
+  • Metadatos y alcance:          C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\README.txt
+  • Directorio de evidencias:     C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\evidence
+  • Directorio de referencias:    C:\Users\algui\OneDrive\Desktop\Scan\results\exposure_audits\EXP_www.dian.gov.co_20261026_232455\references
+
+================================================================================
+ 14. AVISO DE REVISIÓN HUMANA OBLIGATORIA
+================================================================================
+IMPORTANTE:
+Este informe fue generado por un sistema automatizado de asistencia en auditoría defensiva.
+Antes de compartir este documento con la organización o clientes finales, un auditor de
+seguridad calificado DEBE revisar, validar y contextualizar cada uno de los hallazgos.
+================================================================================

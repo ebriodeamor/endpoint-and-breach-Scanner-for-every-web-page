@@ -1,0 +1,103 @@
+{
+  "target": "https://bandejasalida.dian.gov.co",
+  "time": "2026-10-26T23:18:33.484776",
+  "audit": {
+    "url": "https://bandejasalida.dian.gov.co",
+    "ok": true,
+    "error": null,
+    "ts": "2026-10-26T23:18:17.580440",
+    "status": 200,
+    "final_url": "https://muisca.dian.gov.co",
+    "redirects": [
+      "https://bandejasalida.dian.gov.co/"
+    ],
+    "elapsed": 0.48,
+    "content_type": "text/html",
+    "length": 1697,
+    "server": "No expuesto",
+    "tech": [],
+    "sec": [
+      {
+        "header": "strict-transport-security",
+        "desc": "HSTS",
+        "ok": true,
+        "val": "max-age=31536000; includeSubDomains"
+      },
+      {
+        "header": "content-security-policy",
+        "desc": "CSP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-frame-options",
+        "desc": "Anti-Clickjacking",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-content-type-options",
+        "desc": "MIME Sniffing",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "referrer-policy",
+        "desc": "Referrer Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "permissions-policy",
+        "desc": "Permissions Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-resource-policy",
+        "desc": "CORP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-opener-policy",
+        "desc": "COOP",
+        "ok": false,
+        "val": null
+      }
+    ],
+    "cookies": [
+      {
+        "name": "f5_cspm",
+        "secure": false,
+        "httponly": false
+      },
+      {
+        "name": "TS01a45c3c",
+        "secure": false,
+        "httponly": false
+      },
+      {
+        "name": "TS01a45c3c028",
+        "secure": false,
+        "httponly": false
+      }
+    ],
+    "headers": {
+      "date": "Tue, 27 Oct 2026 04:18:17 GMT",
+      "last-modified": "Mon, 22 Nov 2021 15:33:37 GMT",
+      "etag": "\"15901-8a-5931f640\"",
+      "accept-ranges": "bytes",
+      "keep-alive": "timeout=10, max=100",
+      "connection": "Keep-Alive",
+      "content-type": "text/html",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "set-cookie": "f5_cspm=1234;;, TS01a45c3c=01615e3645b612a41a035c3c4d22fd81c49cdcb0807e2dbb5712ddc32faf6d061d34381f9c9da46875038e93726227121c3914fd55; Path=/; Domain=.muisca.dian.gov.co, TS01a45c3c028=0184d7998b7311e7718d3b8145a846e16915263ed54ffffa9e2210a930d8624e968d273b7f30771a2cbb32c9e17155c57b00363822; Path=/; Domain=.muisca.dian.gov.co",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "1012"
+    }
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

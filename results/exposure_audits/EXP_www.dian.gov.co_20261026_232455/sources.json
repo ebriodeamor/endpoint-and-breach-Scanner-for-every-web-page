@@ -1,0 +1,47 @@
+[
+  {
+    "source_id": "osint_crtsh",
+    "name": "Transparencia de Certificados (crt.sh)",
+    "category": "OSINT",
+    "status": "ERROR",
+    "findings_count": 0,
+    "duration_seconds": 1.42,
+    "message": "Fallo de conexión con crt.sh: HTTPSConnectionPool(host='crt.sh', port=443): Max retries exceeded with url: /?q=%25.www.dian.gov.co&output=json (Caused by ResponseError('too many 502 error responses'))"
+  },
+  {
+    "source_id": "osint_search_engines",
+    "name": "Índices de Buscadores y Consultas Estructuradas",
+    "category": "OSINT",
+    "status": "SUCCESS",
+    "findings_count": 5,
+    "duration_seconds": 0.0,
+    "message": "5 vectores de búsqueda pasiva documentados para revisión humana."
+  },
+  {
+    "source_id": "osint_public_repos",
+    "name": "Repositorios Públicos (GitHub Search API)",
+    "category": "OSINT",
+    "status": "ERROR",
+    "findings_count": 0,
+    "duration_seconds": 0.52,
+    "message": "GitHub API devolvió código HTTP 401."
+  },
+  {
+    "source_id": "osint_breach_intel",
+    "name": "Inteligencia de Filtraciones (HIBP / Breach API)",
+    "category": "BREACH_INTEL",
+    "status": "NO CONFIGURADO",
+    "findings_count": 0,
+    "duration_seconds": 0.0,
+    "message": "NO CONFIGURADO (Requiere HIBP_API_KEY en variables de entorno)"
+  },
+  {
+    "source_id": "direct_http_verifier",
+    "name": "Comprobaciones HTTP Directas de Bajo Impacto",
+    "category": "DIRECT_CHECK",
+    "status": "SUCCESS",
+    "findings_count": 0,
+    "duration_seconds": 8.09,
+    "message": "47 comprobaciones directas completadas sobre 1 destino(s) en 8.09s."
+  }
+]

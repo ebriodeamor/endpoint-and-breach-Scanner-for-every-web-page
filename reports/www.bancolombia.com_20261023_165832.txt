@@ -1,0 +1,1128 @@
+======================================================================
+REPORTE NADIESCAN - https://www.bancolombia.com
+Fecha: 2026-10-23 16:58:32
+======================================================================
+
+[FINGERPRINT]
+Status: 200
+Server: No expuesto
+
+[ENDPOINTS ENCONTRADOS]
+- https://www.bancolombia.com/.env  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/robots.txt  [200] 
+- https://www.bancolombia.com/sitemap.xml  [200] XML Response
+- https://www.bancolombia.com/actuator/health  [200] 
+- https://www.bancolombia.com/actuator/mappings  [200] 
+- https://www.bancolombia.com/info  [200] 
+- https://www.bancolombia.com/actuator/configprops  [200] 
+- https://www.bancolombia.com/redoc  [200] 
+- https://www.bancolombia.com/docs  [200] 
+- https://www.bancolombia.com/actuator  [200] 
+- https://www.bancolombia.com/actuator/metrics  [200] 
+- https://www.bancolombia.com/live  [200] 
+- https://www.bancolombia.com/swagger-ui/index.html  [200] 
+- https://www.bancolombia.com/swagger  [200] 
+- https://www.bancolombia.com/swagger.yaml  [200] 
+- https://www.bancolombia.com/swagger-ui  [200] 
+- https://www.bancolombia.com/swagger-ui.html  [200] 
+- https://www.bancolombia.com/swagger.json  [200] 
+- https://www.bancolombia.com/swagger/v1/swagger.json  [200] 
+- https://www.bancolombia.com/v2/api-docs  [200] 
+- https://www.bancolombia.com/api-docs  [200] 
+- https://www.bancolombia.com/v3/api-docs  [200] 
+- https://www.bancolombia.com/v1/api-docs  [200] 
+- https://www.bancolombia.com/graphiql  [200] 
+- https://www.bancolombia.com/openapi.json  [200] 
+- https://www.bancolombia.com/playground  [200] 
+- https://www.bancolombia.com/openapi/v3/api-docs  [200] 
+- https://www.bancolombia.com/openapi.yaml  [200] 
+- https://www.bancolombia.com/_explorer  [200] 
+- https://www.bancolombia.com/graphql  [200] 
+- https://www.bancolombia.com/altair  [200] 
+- https://www.bancolombia.com/api  [200] 
+- https://www.bancolombia.com/__graphql  [200] 
+- https://www.bancolombia.com/v1  [200] 
+- https://www.bancolombia.com/v3  [200] 
+- https://www.bancolombia.com/v2  [200] 
+- https://www.bancolombia.com/api/  [200] 
+- https://www.bancolombia.com/api/v2  [200] 
+- https://www.bancolombia.com/services  [200] 
+- https://www.bancolombia.com/rest/v2  [200] 
+- https://www.bancolombia.com/rest  [200] 
+- https://www.bancolombia.com/api/v1  [200] 
+- https://www.bancolombia.com/srv  [200] 
+- https://www.bancolombia.com/gateway  [200] 
+- https://www.bancolombia.com/service  [200] 
+- https://www.bancolombia.com/rest/v1  [200] 
+- https://www.bancolombia.com/api/v3  [200] 
+- https://www.bancolombia.com/public  [200] 
+- https://www.bancolombia.com/core  [200] 
+- https://www.bancolombia.com/backend  [200] 
+- https://www.bancolombia.com/public/api  [200] 
+- https://www.bancolombia.com/internal  [200] 
+- https://www.bancolombia.com/gateway/api  [200] 
+- https://www.bancolombia.com/external  [200] 
+- https://www.bancolombia.com/mobile/api  [200] 
+- https://www.bancolombia.com/app  [200] 
+- https://www.bancolombia.com/app/api  [200] 
+- https://www.bancolombia.com/web  [200] 
+- https://www.bancolombia.com/portal/api  [200] 
+- https://www.bancolombia.com/web/api  [200] 
+- https://www.bancolombia.com/mobile  [200] 
+- https://www.bancolombia.com/external/api  [200] 
+- https://www.bancolombia.com/api/auth/logout  [200] 
+- https://www.bancolombia.com/api/auth/login  [200] 
+- https://www.bancolombia.com/api/auth/refresh  [200] 
+- https://www.bancolombia.com/api/auth/forgot  [200] 
+- https://www.bancolombia.com/api/auth/reset  [200] 
+- https://www.bancolombia.com/api/auth/register  [200] 
+- https://www.bancolombia.com/api/auth/verify  [200] 
+- https://www.bancolombia.com/portal  [200] 
+- https://www.bancolombia.com/api/auth/token  [200] 
+- https://www.bancolombia.com/api/auth  [200] 
+- https://www.bancolombia.com/api/register  [200] 
+- https://www.bancolombia.com/api/login  [200] 
+- https://www.bancolombia.com/api/logout  [200] 
+- https://www.bancolombia.com/api/auth/me  [200] 
+- https://www.bancolombia.com/api/signin  [200] 
+- https://www.bancolombia.com/api/auth/callback  [200] 
+- https://www.bancolombia.com/api/token  [200] 
+- https://www.bancolombia.com/api/oauth/token  [200] 
+- https://www.bancolombia.com/api/signup  [200] 
+- https://www.bancolombia.com/api/sign-up  [200] 
+- https://www.bancolombia.com/api/sign-in  [200] 
+- https://www.bancolombia.com/api/tokens  [200] 
+- https://www.bancolombia.com/login  [200] 
+- https://www.bancolombia.com/api/oauth2/token  [200] 
+- https://www.bancolombia.com/api/session  [200] 
+- https://www.bancolombia.com/api/saml  [200] 
+- https://www.bancolombia.com/api/oidc  [200] 
+- https://www.bancolombia.com/api/oauth  [200] 
+- https://www.bancolombia.com/auth/login  [200] 
+- https://www.bancolombia.com/api/oauth/authorize  [200] 
+- https://www.bancolombia.com/api/signout  [200] 
+- https://www.bancolombia.com/api/sessions  [200] 
+- https://www.bancolombia.com/api/sso  [200] 
+- https://www.bancolombia.com/auth/callback  [200] 
+- https://www.bancolombia.com/signin  [200] 
+- https://www.bancolombia.com/signup  [200] 
+- https://www.bancolombia.com/auth/token  [200] 
+- https://www.bancolombia.com/oauth2/token  [200] 
+- https://www.bancolombia.com/oauth/authorize  [200] 
+- https://www.bancolombia.com/logout  [200] 
+- https://www.bancolombia.com/jwt  [200] 
+- https://www.bancolombia.com/connect/token  [200] 
+- https://www.bancolombia.com/oauth/token  [200] 
+- https://www.bancolombia.com/api/whoami  [200] 
+- https://www.bancolombia.com/token  [200] 
+- https://www.bancolombia.com/api/user/me  [200] 
+- https://www.bancolombia.com/api/user  [200] 
+- https://www.bancolombia.com/api/me  [200] 
+- https://www.bancolombia.com/api/self  [200] 
+- https://www.bancolombia.com/api/account  [200] 
+- https://www.bancolombia.com/api/user/profile  [200] 
+- https://www.bancolombia.com/api/profile  [200] 
+- https://www.bancolombia.com/api/accounts  [200] 
+- https://www.bancolombia.com/api/cliente  [200] 
+- https://www.bancolombia.com/api/personas  [200] 
+- https://www.bancolombia.com/api/clientes  [200] 
+- https://www.bancolombia.com/api/usuarios  [200] 
+- https://www.bancolombia.com/api/users  [200] 
+- https://www.bancolombia.com/api/customers  [200] 
+- https://www.bancolombia.com/api/member  [200] 
+- https://www.bancolombia.com/api/members  [200] 
+- https://www.bancolombia.com/api/customer  [200] 
+- https://www.bancolombia.com/api/persona  [200] 
+- https://www.bancolombia.com/api/usuario  [200] 
+- https://www.bancolombia.com/me  [200] 
+- https://www.bancolombia.com/profile  [200] 
+- https://www.bancolombia.com/users  [200] 
+- https://www.bancolombia.com/whoami  [200] 
+- https://www.bancolombia.com/api/find  [200] 
+- https://www.bancolombia.com/api/search  [200] 
+- https://www.bancolombia.com/api/lookup  [200] 
+- https://www.bancolombia.com/api/buscar  [200] 
+- https://www.bancolombia.com/user  [200] 
+- https://www.bancolombia.com/api/consultar  [200] 
+- https://www.bancolombia.com/api/records  [200] 
+- https://www.bancolombia.com/api/consultas  [200] 
+- https://www.bancolombia.com/api/catalogo  [200] 
+- https://www.bancolombia.com/api/filter  [200] 
+- https://www.bancolombia.com/api/catalog  [200] 
+- https://www.bancolombia.com/api/data  [200] 
+- https://www.bancolombia.com/api/productos  [200] 
+- https://www.bancolombia.com/api/list  [200] 
+- https://www.bancolombia.com/api/datos  [200] 
+- https://www.bancolombia.com/api/items  [200] 
+- https://www.bancolombia.com/api/products  [200] 
+- https://www.bancolombia.com/api/entries  [200] 
+- https://www.bancolombia.com/api/resources  [200] 
+- https://www.bancolombia.com/find  [200] 
+- https://www.bancolombia.com/query  [200] 
+- https://www.bancolombia.com/api/consulta  [200] 
+- https://www.bancolombia.com/lookup  [200] 
+- https://www.bancolombia.com/api/transferencias  [200] 
+- https://www.bancolombia.com/api/payments  [200] 
+- https://www.bancolombia.com/api/saldo  [200] 
+- https://www.bancolombia.com/api/pagos  [200] 
+- https://www.bancolombia.com/api/transfers  [200] 
+- https://www.bancolombia.com/api/movements  [200] 
+- https://www.bancolombia.com/api/history  [200] 
+- https://www.bancolombia.com/api/query  [200] 
+- https://www.bancolombia.com/api/saldos  [200] 
+- https://www.bancolombia.com/api/balance  [200] 
+- https://www.bancolombia.com/api/statement  [200] 
+- https://www.bancolombia.com/api/extracto  [200] 
+- https://www.bancolombia.com/api/historial  [200] 
+- https://www.bancolombia.com/api/invoice  [200] 
+- https://www.bancolombia.com/api/facturas  [200] 
+- https://www.bancolombia.com/api/movimientos  [200] 
+- https://www.bancolombia.com/api/billing  [200] 
+- https://www.bancolombia.com/api/check  [200] 
+- https://www.bancolombia.com/api/transactions  [200] 
+- https://www.bancolombia.com/api/transacciones  [200] 
+- https://www.bancolombia.com/api/recibo  [200] 
+- https://www.bancolombia.com/api/ordenes  [200] 
+- https://www.bancolombia.com/api/orders  [200] 
+- https://www.bancolombia.com/api/estado  [200] 
+- https://www.bancolombia.com/api/invoices  [200] 
+- https://www.bancolombia.com/api/solicitudes  [200] 
+- https://www.bancolombia.com/api/certificado  [200] 
+- https://www.bancolombia.com/api/receipt  [200] 
+- https://www.bancolombia.com/api/certificados  [200] 
+- https://www.bancolombia.com/api/facturacion  [200] 
+- https://www.bancolombia.com/api/solicitud  [200] 
+- https://www.bancolombia.com/api/validate  [200] 
+- https://www.bancolombia.com/api/certificate  [200] 
+- https://www.bancolombia.com/api/pedidos  [200] 
+- https://www.bancolombia.com/api/tramite  [200] 
+- https://www.bancolombia.com/api/verify  [200] 
+- https://www.bancolombia.com/api/status  [200] 
+- https://www.bancolombia.com/api/alerts  [200] 
+- https://www.bancolombia.com/api/inbox  [200] 
+- https://www.bancolombia.com/api/certified  [200] 
+- https://www.bancolombia.com/api/email  [200] 
+- https://www.bancolombia.com/api/mensajes  [200] 
+- https://www.bancolombia.com/api/documentos  [200] 
+- https://www.bancolombia.com/api/messages  [200] 
+- https://www.bancolombia.com/api/push  [200] 
+- https://www.bancolombia.com/api/notificaciones  [200] 
+- https://www.bancolombia.com/api/alertas  [200] 
+- https://www.bancolombia.com/api/configuration  [200] 
+- https://www.bancolombia.com/api/config  [200] 
+- https://www.bancolombia.com/api/settings  [200] 
+- https://www.bancolombia.com/api/configuracion  [200] 
+- https://www.bancolombia.com/api/tramites  [200] 
+- https://www.bancolombia.com/api/preferences  [200] 
+- https://www.bancolombia.com/api/notifications  [200] 
+- https://www.bancolombia.com/api/documento  [200] 
+- https://www.bancolombia.com/api/admin  [200] 
+- https://www.bancolombia.com/api/apikeys  [200] 
+- https://www.bancolombia.com/api/metrics  [200] 
+- https://www.bancolombia.com/api/stats  [200] 
+- https://www.bancolombia.com/api/keys  [200] 
+- https://www.bancolombia.com/api/logs  [200] 
+- https://www.bancolombia.com/api/statistics  [200] 
+- https://www.bancolombia.com/api/events  [200] 
+- https://www.bancolombia.com/api/audit  [200] 
+- https://www.bancolombia.com/api/roles  [200] 
+- https://www.bancolombia.com/api/dashboard  [200] 
+- https://www.bancolombia.com/api/permissions  [200] 
+- https://www.bancolombia.com/manage  [200] 
+- https://www.bancolombia.com/console  [200] 
+- https://www.bancolombia.com/dashboard  [200] 
+- https://www.bancolombia.com/wp-json  [200] 
+- https://www.bancolombia.com/management  [200] 
+- https://www.bancolombia.com/wp-admin  [200] 
+- https://www.bancolombia.com/cms  [200] 
+- https://www.bancolombia.com/panel  [200] 
+- https://www.bancolombia.com/api/hooks  [200] 
+- https://www.bancolombia.com/api/hook  [200] 
+- https://www.bancolombia.com/webhook  [200] 
+- https://www.bancolombia.com/wp-json/wp/v2  [200] 
+- https://www.bancolombia.com/api/webhooks  [200] 
+- https://www.bancolombia.com/api/integration  [200] 
+- https://www.bancolombia.com/api/callback  [200] 
+- https://www.bancolombia.com/api/webhook  [200] 
+- https://www.bancolombia.com/api/integrations  [200] 
+- https://www.bancolombia.com/callback  [200] 
+- https://www.bancolombia.com/webhooks  [200] 
+- https://www.bancolombia.com/backoffice  [200] 
+- https://www.bancolombia.com/api/files  [200] 
+- https://www.bancolombia.com/api/upload  [200] 
+- https://www.bancolombia.com/api/media  [200] 
+- https://www.bancolombia.com/api/storage  [200] 
+- https://www.bancolombia.com/api/uploads  [200] 
+- https://www.bancolombia.com/api/assets  [200] 
+- https://www.bancolombia.com/uploads  [200] 
+- https://www.bancolombia.com/api/attachments  [200] 
+- https://www.bancolombia.com/assets  [200] 
+- https://www.bancolombia.com/media  [200] 
+- https://www.bancolombia.com/api/download  [200] 
+- https://www.bancolombia.com/files  [200] 
+- https://www.bancolombia.com/api/images  [200] 
+- https://www.bancolombia.com/static  [200] 
+- https://www.bancolombia.com/cdn  [200] 
+- https://www.bancolombia.com/__debug__  [200] 
+- https://www.bancolombia.com/testing  [200] 
+- https://www.bancolombia.com/dev  [200] 
+- https://www.bancolombia.com/content  [200] 
+- https://www.bancolombia.com/_debug  [200] 
+- https://www.bancolombia.com/sandbox  [200] 
+- https://www.bancolombia.com/test  [200] 
+- https://www.bancolombia.com/staging  [200] 
+- https://www.bancolombia.com/debug  [200] 
+- https://www.bancolombia.com/.git/HEAD  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/.git/config  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/echo  [200] 
+- https://www.bancolombia.com/favicon.ico  [200] 
+- https://www.bancolombia.com/crossdomain.xml  [200] 
+- https://www.bancolombia.com/api/test  [200] 
+- https://www.bancolombia.com/error  [200] 
+- https://www.bancolombia.com/development  [200] 
+- https://www.bancolombia.com/.htaccess  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/500  [200] 
+- https://www.bancolombia.com/web.config  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/ping  [200] 
+- https://www.bancolombia.com/404  [200] 
+- https://www.bancolombia.com/wp-content  [200] 
+- https://www.bancolombia.com/elmah.axd  [200] 
+- https://www.bancolombia.com/pma  [200] 
+- https://www.bancolombia.com/phpmyadmin  [200] 
+- https://www.bancolombia.com/.htpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/.svn/entries  [200] 
+- https://www.bancolombia.com/cgi-bin/  [200] 
+- https://www.bancolombia.com/trace.axd  [200] 
+- https://www.bancolombia.com/admin.php  [200] 
+- https://www.bancolombia.com/api?id=1  [200] 
+- https://www.bancolombia.com/api?username=admin  [200] 
+- https://www.bancolombia.com/cgi-bin/test  [200] 
+- https://www.bancolombia.com/Global.asax  [200] 
+- https://www.bancolombia.com/api?user=admin  [200] 
+- https://www.bancolombia.com/wp-login.php  [200] 
+- https://www.bancolombia.com/api?uid=1  [200] 
+- https://www.bancolombia.com/api?email=test%40example.com  [200] 
+- https://www.bancolombia.com/api?token=test  [200] 
+- https://www.bancolombia.com/api?userId=1  [200] 
+- https://www.bancolombia.com/administrator  [200] 
+- https://www.bancolombia.com/api?key=test  [200] 
+- https://www.bancolombia.com/api?q=test  [200] 
+- https://www.bancolombia.com/api?cedula=12345678  [200] 
+- https://www.bancolombia.com/api?query=test  [200] 
+- https://www.bancolombia.com/api?search=test  [200] 
+- https://www.bancolombia.com/api?doc=12345678  [200] 
+- https://www.bancolombia.com/api?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api?documento=12345678  [200] 
+- https://www.bancolombia.com/api?limit=10  [200] 
+- https://www.bancolombia.com/api?page=1  [200] 
+- https://www.bancolombia.com/api?debug=true  [200] 
+- https://www.bancolombia.com/api?offset=0  [200] 
+- https://www.bancolombia.com/api?format=json  [200] 
+- https://www.bancolombia.com/api?cmd=info  [200] 
+- https://www.bancolombia.com/api?action=list  [200] 
+- https://www.bancolombia.com/api?type=all  [200] 
+- https://www.bancolombia.com/api?test=true  [200] 
+- https://www.bancolombia.com/api?redirect=%2F  [200] 
+- https://www.bancolombia.com/api?callback=test  [200] 
+- https://www.bancolombia.com/api?path=..%2F  [200] 
+- https://www.bancolombia.com/api?v=1  [200] 
+- https://www.bancolombia.com/api/v1?uid=1  [200] 
+- https://www.bancolombia.com/api?lang=en  [200] 
+- https://www.bancolombia.com/api?access_token=test  [200] 
+- https://www.bancolombia.com/api?api_key=test  [200] 
+- https://www.bancolombia.com/api/v1?user=admin  [200] 
+- https://www.bancolombia.com/api/v1?token=test  [200] 
+- https://www.bancolombia.com/api/v1?email=test%40example.com  [200] 
+- https://www.bancolombia.com/api/v1?username=admin  [200] 
+- https://www.bancolombia.com/api/v1?userId=1  [200] 
+- https://www.bancolombia.com/api/v1?key=test  [200] 
+- https://www.bancolombia.com/api/v1?id=1  [200] 
+- https://www.bancolombia.com/api?locale=es  [200] 
+- https://www.bancolombia.com/api/v1?query=test  [200] 
+- https://www.bancolombia.com/api/v1?search=test  [200] 
+- https://www.bancolombia.com/api/v1?doc=12345678  [200] 
+- https://www.bancolombia.com/api/v1?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/v1?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/v1?documento=12345678  [200] 
+- https://www.bancolombia.com/api/v1?page=1  [200] 
+- https://www.bancolombia.com/api/v1?q=test  [200] 
+- https://www.bancolombia.com/api/v1?cedula=12345678  [200] 
+- https://www.bancolombia.com/api/v1?callback=test  [200] 
+- https://www.bancolombia.com/api/v1?offset=0  [200] 
+- https://www.bancolombia.com/api/v1?format=json  [200] 
+- https://www.bancolombia.com/api/v1?action=list  [200] 
+- https://www.bancolombia.com/api/v1?type=all  [200] 
+- https://www.bancolombia.com/api/v1?cmd=info  [200] 
+- https://www.bancolombia.com/api/v1?limit=10  [200] 
+- https://www.bancolombia.com/api/v1?redirect=%2F  [200] 
+- https://www.bancolombia.com/api/v1?debug=true  [200] 
+- https://www.bancolombia.com/api/v1?test=true  [200] 
+- https://www.bancolombia.com/api/v1?locale=es  [200] 
+- https://www.bancolombia.com/api/v1?lang=en  [200] 
+- https://www.bancolombia.com/api/v1?v=1  [200] 
+- https://www.bancolombia.com/api/v2?uid=1  [200] 
+- https://www.bancolombia.com/api/v2?userId=1  [200] 
+- https://www.bancolombia.com/api/v2?email=test%40example.com  [200] 
+- https://www.bancolombia.com/api/v2?id=1  [200] 
+- https://www.bancolombia.com/api/v2?username=admin  [200] 
+- https://www.bancolombia.com/api/v1?api_key=test  [200] 
+- https://www.bancolombia.com/api/v1?path=..%2F  [200] 
+- https://www.bancolombia.com/api/v2?user=admin  [200] 
+- https://www.bancolombia.com/api/v2?token=test  [200] 
+- https://www.bancolombia.com/api/v1?access_token=test  [200] 
+- https://www.bancolombia.com/api/v2?search=test  [200] 
+- https://www.bancolombia.com/api/v2?q=test  [200] 
+- https://www.bancolombia.com/api/v2?doc=12345678  [200] 
+- https://www.bancolombia.com/api/v2?key=test  [200] 
+- https://www.bancolombia.com/api/v2?documento=12345678  [200] 
+- https://www.bancolombia.com/api/v2?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/v2?format=json  [200] 
+- https://www.bancolombia.com/api/v2?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/v2?type=all  [200] 
+- https://www.bancolombia.com/api/v2?query=test  [200] 
+- https://www.bancolombia.com/api/v2?cedula=12345678  [200] 
+- https://www.bancolombia.com/api/v2?limit=10  [200] 
+- https://www.bancolombia.com/api/v2?action=list  [200] 
+- https://www.bancolombia.com/api/v2?offset=0  [200] 
+- https://www.bancolombia.com/api/v2?cmd=info  [200] 
+- https://www.bancolombia.com/api/v2?redirect=%2F  [200] 
+- https://www.bancolombia.com/api/v2?callback=test  [200] 
+- https://www.bancolombia.com/api/v2?page=1  [200] 
+- https://www.bancolombia.com/api/v2?locale=es  [200] 
+- https://www.bancolombia.com/api/v2?path=..%2F  [200] 
+- https://www.bancolombia.com/api/v2?debug=true  [200] 
+- https://www.bancolombia.com/api/search?userId=1  [200] 
+- https://www.bancolombia.com/api/v2?api_key=test  [200] 
+- https://www.bancolombia.com/api/v2?test=true  [200] 
+- https://www.bancolombia.com/api/search?uid=1  [200] 
+- https://www.bancolombia.com/api/search?username=admin  [200] 
+- https://www.bancolombia.com/api/v2?v=1  [200] 
+- https://www.bancolombia.com/api/search?id=1  [200] 
+- https://www.bancolombia.com/api/v2?access_token=test  [200] 
+- https://www.bancolombia.com/api/search?key=test  [200] 
+- https://www.bancolombia.com/api/search?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/v2?lang=en  [200] 
+- https://www.bancolombia.com/api/search?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?token=test  [200] 
+- https://www.bancolombia.com/api/search?query=test  [200] 
+- https://www.bancolombia.com/api/search?email=test%40example.com  [200] 
+- https://www.bancolombia.com/api/search?user=admin  [200] 
+- https://www.bancolombia.com/api/search?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?q=test  [200] 
+- https://www.bancolombia.com/api/search?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/search?doc=12345678  [200] 
+- https://www.bancolombia.com/api/buscar?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/buscar?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/query?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consulta?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/consultar?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/data?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/datos?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/user?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/users?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/check?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/verify?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/validate?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/status?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/lookup?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/find?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/search?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/query?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/find?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/lookup?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/whoami?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/api/me?access_token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?id=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?userId=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?email=test%40example.com  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?query=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?username=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?user=admin  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?uid=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?token=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?q=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?doc=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?search=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?limit=10  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?documento=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?page=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?cedula=12345678  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?cmd=info  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?callback=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?offset=0  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?format=json  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?action=list  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?type=all  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?debug=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?test=true  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?redirect=%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?url=http%3A%2F%2F127.0.0.1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?file=%2Fetc%2Fpasswd  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?path=..%2F  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?api_key=test  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?v=1  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?locale=es  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?lang=en  [403] Protegido (Auth requerida)
+- https://www.bancolombia.com/graphql?access_token=test  [403] Protegido (Auth requerida)
+
+Total probados: 1140 | Encontrados: 1115
+======================================================================

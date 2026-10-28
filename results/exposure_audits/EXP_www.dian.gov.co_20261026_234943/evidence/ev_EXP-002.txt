@@ -1,0 +1,5 @@
+Consulta estructurada generada para indexadores públicos:
+  Query:   site:www.dian.gov.co (ext:sql | ext:dump | ext:bak | ext:backup | ext:db)
+  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29
+  Objetivo: Búsqueda de archivos SQL, respaldos o volcados de datos indexados públicamente.
+Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.

@@ -1,0 +1,3 @@
+Total subdominios en alcance identificados por certificados y DNS: 101
+Muestra de activos:
+consultarentatest.dian.gov.co, misionc.dian.gov.co, dav.dian.gov.co, smartboard.dian.gov.co, estossonlosresultados.dian.gov.co, agendamiento.dian.gov.co, ctm00-001.dian.gov.co, smartboardsw.dian.gov.co, solicitudes.dian.gov.co, videoatencion.dian.gov.co, gratis-vpfe-hab.dian.gov.co, salidademercancias.dian.gov.co, b2cpoc.dian.gov.co, agendamientodigiturno.dian.gov.co, rematesvirtuales.dian.gov.co, simuladorformalizacion.dian.gov.co, gtma.dian.gov.co, hagaloustedmismorenta2018.dian.gov.co, certificadosdeorigen.dian.gov.co, factura-electronica.dian.gov.co, pqrswebapi.dian.gov.co, sistematurnos.dian.gov.co, portalrl.dian.gov.co, dian.gov.co, api.dian.gov.co ... (+76 adicionales)

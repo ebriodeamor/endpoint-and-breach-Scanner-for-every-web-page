@@ -1,0 +1,24 @@
+========================================================================
+REPORTE DETALLADO NADIESCAN - https://certificadosdeorigen.dian.gov.co
+Fecha: 2026-10-26 23:18:40
+========================================================================
+
+[FINGERPRINT DEL SERVIDOR]
+URL Objetivo: https://certificadosdeorigen.dian.gov.co
+Status:       200
+Server:       Apache/2.2.3 (Red Hat)
+Tecnologías:  X-Powered-By: PHP/5.1.6
+
+========================================================================
+[ENDPOINTS ENCONTRADOS Y DATOS DEVUELTOS (1)]
+========================================================================
+
+[#1] https://certificadosdeorigen.dian.gov.co/robots.txt
+  • Estado HTTP:   [200] Archivo de Descubrimiento
+  • Content-Type:  text/plain (100 bytes en 0.25s)
+  • Info / Datos devueltos:
+    | # # robots.txt para certificados de origen # # VersiÃ³1.0 2007/05/25 #  # User-agent: * Disallow: /
+------------------------------------------------------------------------
+
+Total probados: 1165 | Hallazgos válidos: 1
+========================================================================

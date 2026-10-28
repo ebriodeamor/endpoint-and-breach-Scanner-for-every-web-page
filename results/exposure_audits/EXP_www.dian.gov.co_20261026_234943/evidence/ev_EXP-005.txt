@@ -1,0 +1,5 @@
+Consulta estructurada generada para indexadores públicos:
+  Query:   site:www.dian.gov.co (ext:pdf | ext:xlsx | ext:docx | ext:csv) ("confidencial" | "privado" | "interno")
+  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29
+  Objetivo: Búsqueda de documentos corporativos o datos personales indexados por motores de búsqueda.
+Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.

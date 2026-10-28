@@ -1,0 +1,5 @@
+Consulta estructurada generada para indexadores públicos:
+  Query:   site:www.dian.gov.co inurl:phpinfo | inurl:server-status | inurl:actuator
+  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator
+  Objetivo: Identificación de interfaces diagnósticas indexadas públicamente.
+Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.

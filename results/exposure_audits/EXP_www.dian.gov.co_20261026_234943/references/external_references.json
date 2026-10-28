@@ -1,0 +1,555 @@
+[
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:52.895514"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.stage redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:52.896664"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.production redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:52.901281"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.local redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:52.914490"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.save redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.364099"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.old redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.377385"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.env.bak redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.379128"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/config.php.bak redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.388914"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/web.config.bak redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.846383"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/config.json redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.865260"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/secrets.json redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.866861"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/settings.json redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:53.905332"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/parameters.yml redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.311538"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/backup.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.343789"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/docker-compose.yml redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.359381"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/database.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.374354"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/dump.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.794186"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/export.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.841267"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/users.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.851078"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/db.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:54.856588"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/schema.sql redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.102409"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/backup.zip redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.257995"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/backup.tar.gz redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.267825"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/dump.tar.gz redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.321795"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/db.sqlite redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.377346"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/database.sqlite3 redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.591014"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/data.sql.bak redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.736376"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.git/HEAD redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.745013"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.git/config redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.797434"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/.svn/entries redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:55.842177"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/phpinfo.php redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.069902"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/server-status redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.179726"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/server-info redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.191207"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/actuator/env redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.281905"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/actuator/heapdump redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.326360"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/actuator/health redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.584879"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/elmah.axd redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.636567"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/trace.axd redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.694341"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/uploads/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.763150"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/backup/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:56.777119"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/backups/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.046244"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/files/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.114310"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/data/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.194583"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/db/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.309174"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/sql/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.322604"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/logs/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.549271"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://stpaginamantenimiento.z20.web.core.windows.net/",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://grc.dian.gov.co/dump/ redirigió fuera de alcance a stpaginamantenimiento.z20.web.core.windows.net",
+    "timestamp": "2026-10-27T00:00:57.572575"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740919812209.ZDM5M2NlYWQtNGY1Ni00NWU1LTk0MDUtZmY0OTg1MzNkNTU2YWM0M2NiZDktMGE3Yy00NTcxLTg2MDItMTU5YmJmMzMyZWE3&client-request-id=b7265404-3239-4ab9-93a0-cb036341aa9e&state=UWE9qEDYIvc0FUueKBNo3nuNTpq5rA8ETJNlQop1KK4qrmHNtIYlBgp_BHAE44J10_OdoPfRTYCS5k9dD-OjyRfYgEl8eF9G9E0yqtzgL4VS1Wnp652eVT3P5GtPvNZ6HCCAGk49ozntWin1RJM5U3WcKKtufQkNnwQOSWN9HsLJT_kHvtZCxme0_bm5YSG1qca05qLM7g1X5ryquMQrhPFUWskw9e067B7J5fILFRAQvdJ9Twc0CY7vt0wtnsHtaf59HVvQaCOIi6MF9sO9UPZf6jDMqymnmkkVxy1U_Y58ZTDKFHVRDYlJcvLOSOZakBHn6GXTXXE5Yfu7CAW1R-quqBYtMcfWtKA8pAKTU5w2iKa8Cl2i-BhQ7dAbKGy28kPZNXfF_5ZezuXP9DlV6A&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.bak redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.848592"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740919026398.M2UxMTY3YmYtZWRmMC00N2MwLTlmNWQtYTQ1MWFjZjg3MTRlMzZiNTc2OWEtNGVjYy00ZTk0LWE1ZWItOWYxZjIwMTVjYjE0&client-request-id=646b2d7b-68f3-447b-a73d-44db198020e0&state=hwNi55qouyq7gaFu5Y91zOZEQRBLf0lINHARkCNPejxxwMfGesVz5RxM_GLAmO04gM4PB4ex0VctoumvBgR11zkgGsRbv6IMkfpT1ywuNi1DSEuo7kQ-6KHjmuD-8xKGikZR-aGwDoWMUd46fD4AeQrtJ9qaIx1b5c0PKvqjVlX9dXbf3dYQQY8wlfz06RkU9ASPNOcALNpMJMNPyySVlmJNQWx3KHZqPhehvyEWl_QU5iaqLgMoFTWaRJcm-ctDd94ThCJDqkiQdtY-Mmi1qOwaMSC5KgN7mecIoP2mdxaV_eneZN8SCYQ5lRaK11I36P5dKvkB6fxotkjEhZie5muD_eb2OctGN-fxl1lrzykMKvSiVSOhqXKrZwQLcpuMiCelSxDy22F9CJhUodVwDA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.877472"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740919157953.YmVkYmQ0ZDMtY2NmNi00YTkzLTk5MWMtMTcxYTAzNjkyNmQ5YjFhMWM0ZjEtZjYxYi00MTRlLWEwNjktMzZkNDcyOGI4YWE0&client-request-id=73618567-cf2d-4666-a6db-032d1d657886&state=JJtMxsE84koPrMKwYqp05wBngf-oLrteycIxV_mxnBNpwPRr4XkMMju-r8ModbTz7rJxG4BtjvN8UEpUrgitXWRn7uTnVsj3RYzvXTIS4QrSpO6ym2AVfGLJ-lwLGmz2o8LqomC8rb8CyMP-8g-SVE64yFoqtAsit1cd7_rV1Nf6CjLHRUcCcOrm53VqzviEOUAieRd_SLggmT8qxOOHKI0d-CMAY_ycWoFJ6--W7tt8opSwA-PYbUf5JFSZEbMCIIP89JlJup3KOvffzBgK-XJOTH-QpoSvvK6n-eIOI2HC6R9sDt2jiDV_jFKh0lxKp2mlpSVPt8ZzjwbmQJuq4-34wmZB2Mu_HQJLxwhxuIFsnsQgb4EK1zSOpo8nS-xggavWiTlFQhjelfF97B7-9g&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/config.php.bak redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.885097"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740918978712.ODcyOTNhYjMtYTJkOC00OGJhLWFkYzQtYTdlNWQzZjE2OTE2Mzg3NjIyYmMtY2JhZS00ODNmLTk5NjMtZDA1NGUwOTQ2MDA2&client-request-id=e81844d4-53b2-401b-b94b-d692d530c450&state=MAxNXmabI4cVu90eCeLlqR08ieclyKquRA9Fftb2Rzu7u5pJcz0IgkHAE-yqlqjHGM5edBTaMO_zHKVgKJqFPHcXUEuSKr5TZipQwftI8TSa6Ktxt0wmu6CO1waan9k0tpWON3ZCDQgTsgmvzsJ3rKy41fjD2yhv8N7p8r1l9Juz2FUIwdm1lYgY4fWSIEoLa58KEwyaagsRE97pk81F8rf5beVH8mZ-Vd8Ls3X5YBY2uefZAc6pPRUEVqllC8Nn37Lcot3fJRznwJi0-jxZHhe2Z_357dwQpfx-oN2xL5zZYRpbTXv2MI4HeKcvE47gDeHXXa-s-IypQMImpQ-H_HgRvoQkyOa4rVXe-Sal08uDkblHJG3KhxnfcTYqkzDLfq3AM6DARkXzRWeCPSjFLw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.old redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.893041"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740918850827.YzNiMjhjNDgtZDQyNC00MWI0LTgxNjUtOTE1NWI2MGNhZDU1ZjAyZjU4OGUtMTAyMy00NzVhLWJjMjktMzk3NjhiMTg3M2Y0&client-request-id=174bce10-00b5-4f40-b0ba-f0e973e05d1b&state=YXmvsrtyJMmEwYVJDa4POz5oIlzkhWTMxjQJRd2D25zwKTO5omGv34FP3F2QRZDIE-nVA7tVsdLg03YWxQ8zWFwQ0iY9rSNbOWH3zN_NbTgrPmjTD5kcGGluh-XMBqrEB2VHw2hXV-qDK_vjFLTX0_K9EyZLBNql1_gTbzmyy0C_ti9DrhumC6AsNVeJBgw1eLcvbaIpv_GcppKUVP6xDO1AXG61tUWZeebkEQkH-KnTroOc4t_w_iXGpcaLb26sYOd0rpNHuJ31B7WoN2AOImVcd3xTwIzf9WP6tRT-ShrQy8WYtoQ0VEdXmbqt7ldJA2pCNh1P7UA9UWbJn4PAeJz9Jyx4i6TuGVpgtMdUyXNJIR3w9kz_NzDYWO62mqrvxCr5EF7C_6yLldOg_tVPuQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/settings.json redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.899644"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740919003471.NTkxZTFiYzItZWIwNC00MmUxLTkzZDItOTgwY2QzZDE4MThkMjAzY2FkMmQtZWJiMi00NDM3LWIzMGEtNWMyYmU3ZGNmMjVi&client-request-id=bd736069-561a-4186-85e8-e7aa689e7ca8&state=_0nTq8XHzLawh8BOuWGB1LUTs4-lNmlAQQ5y1L2o92UxgE4LPrJzN2ekRzx3Q-J76GvuZNrSHjVr7uNq2oiZO7D2EmIVcecClUtbcU3EU4qcIWb71CZewNkkWl3OpAT5sG7_CwQZ0hNZwWsuZnmYeXOM8CvTddtvqBaTJa6cpLINNIWVqbQgfMTG1XUZhGWFHoKAMRZrFmK7Tdzcf8T_xJxaq1bFU4oYWH4naAPYHiAURF3iDH99E8KZxKINKlLdBJG7928mxh95Fl5Wq8Jx10Lo7DMdhlW2EI38o5UdLUyCZhkwso25JBOIZJuI7mm4mXmOAUFlTdkggCkF9wWr91SG1FYKeZ0uSzQR0gf1jltiWW4jZXIf05P4s6r9CQDSGYjijaZSBoJ8bDTt_1aSNA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.save redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.904858"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740918882579.MWI5ZmU5NDYtYTZhNC00ZjIzLTk5NDEtZGM1ODFlZGUxNDZkMzA5MzU2MTEtZjE5OS00ZTkzLWEzOTItMmM2MmEyZWViZjUw&client-request-id=0ac7ef80-3c8c-49da-84d7-c4f9bada9b9f&state=DOXmt9LJksIRnicXoh20_9hbTgCgmYSYMCd1sndWkpWYpin5eeW95xyMr6CQzDlJIU5BolFchx27E3YFpdtFKL_pUC3UL7VUHw5VWzeocLomx-kPS_8QYfllfpvOrbnU5R8-htM1wVz20GybtcrXlbVwiLQ90ZQNvjUUhLuW6K1GrGIo7rVZ-YLulSfTz5x8pfjmgolD65YRjzfEV_BhX8GFkgC9rVQy3ZJ0zr3aDflhrylkptGMg0bIwaYTzkGoouonV1O6w9BJ3BN7m8ONe-ev8O05LqK7nY4Wkts54zNbZEL5QBghTsYykCjI3QxiXRgNXKe0E4l5POtiMrXOmNG1lwaI7LeoN1N2xts1MrOiHN951ABj89TGOGc_LmYU7IO0hpFGvb4gfDem28qahw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.production redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.910043"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740920180266.NTFhMDAwZWItNjljNS00ZjM2LWI0NzctODJlZTI4MjAyYWE1OTNkYmZhZDYtZDMzZS00N2FhLTkwMGEtYTIzYjFmNWU3NzNh&client-request-id=58809cfd-ec97-45da-aa25-b946fa2e6ebb&state=T74zZlOwxz27s-Tn5UaWmU2UrYgZwRvTF_PhKiHjofLbzZg6KVeZ3vSS_-PKEjSjr1d7V9LVKU3NWiXHkqb-HF3IVVhchx9MP3fOcEbif43xxn3AXFobfJNx-t1MCl7p7-PzGb2Fjvc2qYqaA7oCM2hic5ZdMLeOVmnJBxBksq6p1-M1hhyMG1TkEmrIPOWS_xI-ek4ateP-qYCAkHxfy8QXV75yNy9nV1DM-PPYovZzPRQUvBatu8jOQ6ypUQ9XPW3Vglh8AiRRCMrTzx9Fn7cFBQc9ALfmMkqg3Zkd5hj1sowm7rdq5hWhEA5evxTmCFCqKhEVxVNYhRO-dpOm2m-56j8rJJOwkfuGOdLLATQVlJOAhPS3Uiss9DBxCSelo38X7bxqJvVXTjiwsYBJWg&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.stage redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.919020"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740919800741.NjIwZTNmMzAtZTAwNC00NWJlLWE5YTUtYzg1MmYyNjAwMmE5OWQ2NTkxZDgtZjc2OS00OTVjLWFiNzQtZWVmYmFmZTcxZmQ4&client-request-id=ac653d57-13d8-4075-bdb0-558bb904b32b&state=0H6Oh7gC5_o-PVRJHChywkN-RhTcgcq-pqvq1fftS1boPZ3sbDus-YTlRf7jjLN1hSwUDTi3Ml52XaWp7Ki4biRyulnr-Q6Ah1pDFXGak0jlX_yVtqh6hx5IqD91_JEpCPU05x2S0emZM6YtplRC45A4KerHfq7PuLLBYFly8iUNwsBwuAJTf2hah8eXbcq3KOtplmQfomraqXuvWHoPiTkL5VYX1sdhf6vAXufhfQoAYCaCWCU9BaN6c_tfNQ1sFf5E-uL-xWfaitJ5vJRXe_uEqLr-AG3evQ0hBG-EwQJjucT5qD7afhzd-ckYM6pEQYGLex0kDngtDujGZuyycLpiltA9a45N44qWIm9Dmfve7VrDuL2VRrzdqU-h8S7EgesURLbEKwjj60Rh_aqChA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/web.config.bak redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.927824"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740918772501.NjUxMzhiYzEtOGFiMi00MWE1LWJhMDEtNTVjNTU2NWFjM2VkYzE3ZDdmNjUtNjcwYi00ZmQ2LTllZmItZDk3ZTllOWQ4ZDkz&client-request-id=0b741f90-a23c-4a18-b4ad-439ee54192e7&state=KubiVVEJDkLlw56OFU9GghyHry5xsA05TOqclLsewhYW0bVNO246cCjX6oeWmHzVKVsDbQ14g8v7pCFsO0JNXkth3mBNKqDVDg9xqbfhPFStnD66cCZw9Qw8cbYkSUOxRIgWtTVMFyLXZllTdCjfguBKAvGzTbvsls4nPyFMB5CCRyMFTFws8YXNbR70I7Tbl3AKQ3K4aI63Ka_0PI0M7OsTZwf4F1QrecCwjjCUnSAAF7EzIVn2n0E7plNhb0buY6x9v3A8RBVFaY9RmJSGeuCD-sIzQWygJIaQra6MPZPpg7S416PcvfQXq2auBZP7bWF6DDr4rPjtC86_zvfqaIVQ4CEyJhFYC4L5KnatYgQt6ThEpiv6LFhLRHxhZB9NMZoK4F3VdDUPakAD0dIL9A&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/.env.local redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:32.942230"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740929895657.ODI0NjBhMTEtODIwYS00MzZmLTlhZTUtZjE0YWFjMzQ1OWFlMDkzOTgzMTEtYTU2MC00NzRjLTgwZmItNTI4ZGIxM2NjMjJm&client-request-id=a39eaa6d-18db-4fa4-b102-6293c571c8b0&state=8xeI7g5rjAz_2ZLeV04eEkUeBxnIIP_YNc69oyxYVEwFE3mEw7MQ_iMGZiTxcuaSq_DdKcgQZsvrmcTTCiDNHhr7nucJTTpDGA8oRJmTHZGLAteJvJ1gojAfSdXG7hbQaQHkiIUs_nWNpdATgG4ybThXD72whTkZqpo_MECepCKz0U4K-NNGPI9YGIa2mTsJaPrfefAwcxgLrRhOjYosiknjQJOFdayFtCZo4H3eBbphLeZlcgCYN-8hsXh66y12Z68m6BpEVh7Yc4Lx4U17dvvFdz9h1rx78ZA3bCOQTs0UvJDdrTyjpGxUEp3jWRZ85fmpQG4qO-_XOIjZBVjz3v1gJrFdJCwsbmZKVlxr3MXRdL0sc2vamqFGS2Q--JYxVIYMGinJAo0HrZUzk397tw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/export.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:33.919343"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740929827848.N2VkYjUxZDktY2Q4Zi00ODA2LThlNjUtMzIwM2U5YzlhNTI5NTIzOTQ1NzUtMTkxOC00ODI0LTkzMDItNDc4YmMyYTE2ZmEw&client-request-id=20b6a42e-f644-4d10-847d-ebf625eb4846&state=wHk07g4VkQTH7MSBNTdBAN_X3tzA7nH8k_VZSTiM4u28uwGQJKoIamo3H7oQAu3WnlSBzhDw6-0ev8jWDRt5XoRdR_9qBMsn4RlSa1mbqVvPSQ6t6eDas5ed6gcIL8n2vJ4UriluCP8C8QDkmc4okPpYnt4gfj8FoqjbDf2AtOB7oUDYSBmmhqJQLmnIfhoMvrirw3cpaq-lHAnPAB758rx6OSntbh450oFobk4l8IpC5byID7p4qzPj7i5W9FDkTvn4ELVCCLgFrCOLjyMkg2GCwUCsSMKGV9WpOMFL4wSRwZJCmmYFcdQkyEQevptBAOGD9G0HqyIZBoP9gZqIgtQIaoOvpGglQp-Mms7LJGk_URXw3vkrIDWcpzuqi8vbgCYm72KFHqodPJtBIkp3XA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/secrets.json redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:33.942846"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740929899761.NWFjNDNmYWEtNDc3OS00ODI4LThmODAtODkxODg4YjZiMDgwMzIwZDg3OWEtNzRkYS00MmFhLThiMDYtOTM5OGVhYjgyNDhm&client-request-id=e2515d65-c33c-4e01-b303-12679ea33e41&state=1lcpqjqSm81rp-Cv6ZxbdRVqbTLr9pCgIAlod0mCUUPkoK3cdaMy7fmU-t9ylbspD_09seqmGOkqXKLtrEOjK4e4VpKlhj3OgXVy1Q0wwx5xYkLJyqKtMAMTMtBjiGSaPaqdMotrPYxYpe0X5q-6floUQaw5BaaQo81oPC_gvKd3PFXVB7lciwlWdF-onCl2CLLNrLsinUfFU4ATpZ0roDEFNYmKtUrYa8dFCMYGxltld26cYjEnTSN_5XXRvXG9gyAKQbaMy2wP4PSHSczJ6inhD6z2J9EpjT4d-AbuMAZg1OIx8yNLwlF75bvgV8o1DbizpbfU1KZkQo6sTpCEe4b3Hr1zmO6DW8kvD69DcqoKGWO28XfodONaoBdmNTOAahREl0v_ly29Ir8Vm-7vjQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/parameters.yml redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:33.950892"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740931127250.MzcwM2M4ODEtMjBhMy00OTMwLWFiZDItMTE1YjI4YmMxZDBmMTJkNjhmMDYtODMxMi00MTczLWJmMmUtYmE0NjVmZDVkMjNk&client-request-id=99abd5f3-4acb-4cd8-b232-cfc90f317799&state=CG5uCumSZis-TfuugEkD1RYhOrwRsFnI0E_L4Ca6jUfav9SUlsMxjXPS4OEkWfU9JTu7kp11caGGzBOos7Vf3Ul7FPcGAzDzI_u1uJKt7fxXJoYMG31dFwvoIpeeCabdXEI1RLzA1Vt1XLK2n8BvZAC6uY5nYvnNj9MPGno0zgBJm3kvhExkGCTEJZnej7kih815VJCwVVpyFmEjttJH7k4IwWthuhXyrvRuI4TPYwsysA8yksA5LgHORceDhMPiBp2ASi1llI1I_sYSttFOpeONZzCVWl4-7g9u8RDLV9LAxh01Pil7x9QqnYPq5m8nbeKmg5fC30Iz4dBwL8oUnirbYPE8XAdVtSuXFn34NLmpQH-aWJCArCQYpwCL_VxLmzBhbBy6ODjCUGElF3ZYNQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/docker-compose.yml redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.079571"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930822038.NGU2MmI0ZGUtNmU5Ni00OGNjLTlkMDYtMWY3M2U4Y2NhYjU2NjdmZjU1Y2EtNDg1Yi00NDY2LTg4ZWUtMTQ2YWJjMjZjODMy&client-request-id=55b76ca9-42fb-400e-9b69-271e7f47d8bf&state=uKT_6xMJ5pScqIZMQDqQeCLQyA4en8-fRGstzm4momvpGqnUIppm0XgKSEU7hNmY1vf9VWICwT8yWug5KALkNwY43pM22A9sbeihD-JUE0XCRGid4NIHD_n-rKe-Dcz040XZ2lvNI8pzqBG6iIiWlVAdr0sNK2Ksj6ZdMoVtHJmoFMWzhef1oqQBsBclz3keROH7om5X0jn8Q1XQbnQy-xJXV8L1p9N94DOkH-aon9KH2Cz1IfdNEkvJ9G1pM2pM0_NirXfA_7uoIpGTyCh9Ui7i_Zn0sAJwECjXT-nZ3RfGo2cPP-LSsJSPIW7KwKNfM3JJ8Wh_F9fuT_m9zoZlT8l4WzRIoAB8jed_qvJND9L_TzhL8E9zPqK-Hw3paDrjk3FWbiuhWnOnnrNvCKswEg&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/backup.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.085385"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930863548.NzM5N2U4YmUtMmEwNS00NDc3LWE1MjQtMDJiNGUwYjAzYjNjMmM1OWE2ZjUtODM5Yy00ZTBkLWFhODktYmYyZDk2NDlkNGUz&client-request-id=ff5bc376-d71c-43be-a794-c7165190e286&state=M73T_y_tl9l8zzC7vAfZIFgVtULNesGbvMIuhl30gL3N1cbeeS92pBu7ZJTcNziw6e4ojIVzGT6hsD0BxQgzsvSsDcpRvq1-BvxreBMGDzRpDGofiZzXekZ_bBFgLhvXUI_5utVyNpwBRkCVQ7PydA-KiYhA4YC3XwlaMbHt4bpZ43aj5Mbut2TaPUcofRss7aSoh5i3esXipLcreyZ_yGq9fWFW_D2wLmUxDEeb3xrNuIyt0eAygO9Wt91zQ0DK0Avpd_FlIut71ZL_teZzlBfb-1N0osZhrSRd96sYUBi3IKaVrjghaCef5Js3i4xHpo5QChuqk-qigNZv-_W0NsRaml7r8AE5sJc1ZYFXN189VE6DaR5qmWpg4U9y3gXuMy0avz5Af2eGASu0W45uBg&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/database.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.095750"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930578326.NGNiYzcxYTYtN2QwMi00YTUxLTk2NTQtNzI0MzE5MDhmODRiMjM3MTkxMGYtZDcxZi00MWU0LWI5NDgtNzYzZjRhNjFmMmI0&client-request-id=68dbd21c-8a3b-411e-bcbe-dbc1d033d002&state=yTG0w_nUkLHF_56WRQ8HAeZt-V5n2L88hcVpHlTe689WLhJrZPOKrcckVegMVvv_8SbYyyIaC8uAIh04q0lUWKijg7btK2CXtPguu1Ro6yzKX3MsrAT4MeJue2PC3-4GP6zwDRXasRGy_4BhMbmsxCVnIEQUMmPIDPuHtlE8go1XDAEMZOmlmTepkSGMmnmKhQ8GEVZjr2HRXrKmd0BGwKi0qntez2KkqDz3sEMCyPlhdOMcLRO_Fbwfq1SCY7PMkAqIe-PTgBtrbHiEd3bMdsVy38mZ_yEHAv420xJxeNc3iHwd6NFKzf_txVCWbZN0LC3IwN1ZNSI84H54_YfHmkg6UOOzQZWGQwYfs_UkiSmQjqxlElbdl8MSexhQlYYDTr6wFrc9wWZqMHhrJTNmkw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/config.json redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.108962"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930841687.NDQ1MTk3MzctNDhiMS00ODFhLWE1OGQtM2MwNTE0ZWUwMzJlY2RkOTM5OWMtMTNjMi00MjM0LTlhMDktNjRlMDJhYTEzNmI5&client-request-id=b5ca9183-b471-46e0-bbb0-9ed9efb8421e&state=bdWxqqCCKhqhtvr_Mn-fAhDqd2F8NL_l6lKq9OFUlmg4vEmVE7tQP3dwL4tKPZo9d-o266oaoLvdckr-CiCYy3a3U1f6Liv3S7eBwEpq8A4BrbGYr0sevQ3oTKGAXuB8nWLp2AjhI-_BS8lrvb2T6lxVxfyNARmIQlZWk2O8xO54uTic_GTgNHsaSaeRTXRH_WuSEx7iExu8iq5Sw5spOmEXIuOQ_Mc1nvRpKrq1YnqHB4uz_pYPGWM7MSc2jWWu3FkPzxANPU_ro_EN68-FD8zXECikQ6fZ5i4s-Cc_0WfMQcmCgqZwjp3Q-ahQCWpxOzCcNnMxLO4g73HwAymFnH8kxXiNQB-8qe9WqI2uQuS91cb4dgqFqb7NRqSH4IbVZpSbqFKT0pVqa9QlTLsLjw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/db.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.117291"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930741050.OTY4NzVlMDctMzk4NC00OGVhLThlZDgtMjYyOTU3NmFkNDE5ZmY1Y2E3NGItNTIzMC00ZDZlLWI3OTItYzA3MGM4YjE3MmE2&client-request-id=c351917a-272c-4f0c-a618-ebcb564424e1&state=mTnCvi3cMwTVtPOnLby6kaBJKa9_x90szQ-72-oCXSzEz_Oq7WiBCsx4d237LaYoI1N5lbEkaDAKSfrUpUqh53cMR44TGTY7qLP4m4wWw6xPZMuq3Dkm-J2gOBfgzdcT7iXXee96cjer8xxdNGOdhfSJtrZDxqj_FM4-0APzn8vP7DEba_4-C8SzpUHFJG0HuWKVEZ81hm5ug3VOx5AW7Zc-TcjndwYQYWJVFdLaPyH-vuWM0-G6gHYD1jz5rzyGqHw6aKp5_VABGYqCmUKT9pgIa5GYIOWrxMsiEJo0NkM7h3WxIVci99I0n8LLGHaL4xYnrimy0cTQgkziX6YCICP0of4cUQh9SeMAQjptxI6JfWMSVprb8hVCWmKqbHZAw27A_7XTW5U8Y03qCHfgjg&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/users.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.138878"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740930947777.YWRmZDdkOTctMmQyNS00NDdmLTkzOTQtMGYzMzQ5NDVmMThmM2JjZGY0OTMtNzRiOC00NDI0LWFjZWItMDUxZGJlMWZjZmU0&client-request-id=eae5b2da-dade-4ff4-8a68-1f0f20afbb42&state=lBCTShyF8pHxEsZeMZBsFvjS4DN3Uni9oZ4lxf4i4DLE6xP9SgNfIAwa-A9pW96LVAGjelAr09WEKLdoy1cFOeN8hzUvsCoqBlI_KgVRf_1atk_pRqSOEUsvPsG2x1xnNDT5oBmCa_OfkZLcGTeNUmzjMrVAetN-x--0KYpU3z0U2sKZl-sTlL5qREHBPOxq7Plb4uvR4pPfCKalR5OvpDi4_h5EqRcNCcQ0kioIXLmUAzr0Dgj2Nlmve9JKEbtVzSRxVJ4dKEPxuX-llDD1mD_E2aFw5yo3mw3TJ1tmoTMVasiy6loitM4dowEoj_nDQTIr_PXn9ihIRhDN5VogHv5ZzuHNiBf1wH5UsU2F7tkvPW97XngAyBtngRygAbGup8YG5_rw0Xr_re7NMqMiqA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/dump.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:34.154934"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740939568375.MmM5MzhlMzYtMDBhYi00OGM0LWFmOTItMWViNTY4YjhjNDljNTA3NWQzNjEtZjI5NS00ZDBkLThkZWYtMzNmNjU0NDdkNTRm&client-request-id=c755de7e-bbe3-4066-b2a9-a99d1b11dd7f&state=AOsF-VAkoFvbPtED-EYhtXHJ7zvHp8qlTXmr_8kOlmet0nh5ROkwXwtHpo1OsuuV-e2f5a9Coao3amzQjxLU8JSvfRtfEOMHf1kctlC0HiQi8ZatzU6B-InQzm3c8qjTrabIn3piL41_sGH20biF73ez2hiny662iyLzECBhu_u5-ulXdYMkNuSxFq8zSas7RF3MxAh-IZ6NMty7tPQfRhhQodY29R6yUVGhEgZaxdGT2AIUs5R-fa20BkTwzjQ7WuJMcJrHL4k6sGTAtyNxR_NpUmTISg6d6mhpSk57vrcQn-xHWttXnn7hdc8Zf_GGt8oYpD_WajRwscD8BrQLC1Xg0ZukQojfQTFrzmJvvupXXWVUOLgHWuZYLMZGXhTNhysmEeKtBkSmuRiE6MGqsQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/backup.zip redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.184353"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740939570838.MDUwYjhhYTktMmYwNy00NWRlLThiM2UtOGY4ODUzYWRhYWE4NzgxMDNlY2QtNTk2OC00NDJjLTgwNDktOWQ1MjMxNjI3OGY1&client-request-id=929b8e91-13b2-4d86-9b36-67a162f008b1&state=JTn-9fBJoL93h_fPfAKaRnOZKq5ohT83erpHgO2m9R5Mddhs_ph6w3rexV3kkb3AbhDUtQiVBIr7SKlteibkAi9GVesUhTs0uHrzB7GEpqsIUYhxjKSLGTdGtT3y13-BnyT7zOFDD-suWP5uWnKpWeQGExiqnx3eBGH700E9IgUc2h6KsIMf_Ad_63vbVSgmhCadRD96W6DYPulCARP06hKMC0z_Ypegh7xVG0sde29a2_uYLyuzc5Tc29i2FyKtBqooPzUVTrJzRECmC0801v-biXwWu0dDIa39WBYgEIkEwB0PdETG2v_XYVLgcFesKRWa917PQ7QikOVwWwVHuiCFepsS0-v2Fo1qQh1qG2U5JFkwrBDzNy4W_2hjj6sbR_kqmBRaDtLUV_YfT5Z39g&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/schema.sql redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.219756"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740942746926.MzMzNmExYzktODYwMi00YWU4LTgwMjEtOTg2ZGFkZjY0MWYwOTIxY2I3YTQtZjkzYi00ZmUwLTk3MTQtNTE4OWYwYjE2ZjE4&client-request-id=a1904b8f-c8a2-4802-a6cb-ed70eb67305f&state=YWvsHdcW4SEBzaYlGUsEcpAOEV7XDun11IUC2SG1uB_-G1cJCUc9gRSxfouREhKqsi83QZRsQ0waZT0hNmbqmq3zRcclVVbnlauuhYQREMDHm6HKrckD7kmzX3XIGljCngDE_BUqcZJY-kXaM7mfa3kHhI_faB2tdDrJ4EywNjMywC97wM_qOzqTstFbCKLKtwIxgEEyP4_lDh2uCDB8vAj0NECQcgIwdUdzC3ede3rzgD1JVRhlZYQV0p6g0sknIDQAW_N4gcnx1aftZ6v3egUYuj-3qmGdGLAlu5__FOkMjBayVrZ_VxgbO_y2-HbwV1uM-R988mRgwC8NSNCUAptfMTCSOfcdMGxL8YcQPJ5UfFFkfxSeB50vs9zQeJioiQ_6_PMlwuv-kfm2AT9kJg&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/dump.tar.gz redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.321589"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740943767853.Njk5YmE1M2YtMWUzNC00OWY4LWI3YTItMWVkZGU5Y2Q1ZjE2YzA5ZjFiOWUtYmM3My00OWQyLThmYWEtZWVkMzEyMzY3ZWJm&client-request-id=627fe76f-9ed5-4b2c-97cc-1b41a314f6e5&state=t1y9bvQTFYpc6cBFJ3l921RTiO0jcgnYoSmfSKSrq0V4oIt3d883rQog8UIHXTLvNz6xfH-NZa99OOOMA0e-Vn9qAa-qDuMEeOAzw5Gju7br96ilupuBISnrkr77cnk1Iqggbg3VAhHwfP7ACFFhIN8J3Ai5cUF54AvxxL8K8Vqz0fXb5gkisgOlcja96Rip671TX9nTq5HL3WOQRmyU92Ejqj6jIKkP1UqCEZ_lBgYWUR4t1HfHF-EkFX_ZYvFV_RjdSUyNhFYAWsT6LTiTICZ010-v-s_5wQlBqbQVg4_5G2Y3mcrxbMdtjsUrlSeNeB6NM0Z4AMVgcNGZSx0PgNM3qRBGqFk1OqPrEOEbnYCQt3eHvcATNFoCGK4Yxhf1qFoPu64qalmvUu89k3a9QA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/database.sqlite3 redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.465575"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740942511368.YzlhZTNlM2QtMjdkMC00Y2YxLWI2ZTgtMWFkODYxNjE3MzU1YTVjMzQwYmYtYTU2Zi00Yjk4LTgxMWMtY2ZiZDlmNTZkZGYy&client-request-id=491d1ebf-0ef5-4dd1-9b6e-ebde99a94968&state=hL5OtZrPp_l5KQpY4LjSvN5ezxmuk_2YnkOS8sWsjwxnUpt8A2Opbb9-dVE66UrJuvRqEWxu5Gh1HpdO43kb2QVbOmxmHOPh90k9sV9sk1S1C_TVARDJAubeABT_now2JYdfa9DPbo2OZP-j_3SF2h06hH9_aP3sV3_ONiONlzlfuZpuDk71JGsXHeppBIwV-n_LbM3QJzZ-JN6ZUX-uz7hszeP2j3ON4Hvc710bfO584Kj3YtgDpxJl2VcznGRcGRpRaygSqAGucF7rVVo87xQFePIfvAN9Lvffihibzohr-_XR5AQEwZC-3m370FnO6eS4qUlzRYXkd6kgby7GtcqTaBrBRF6DHEDTIDp3pYYtiiuh19nVhds7DiA_7G7sbVl2FtK3wj_dnbbBZk_ZlQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/backup.tar.gz redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.487313"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740944264715.NzQxZTY3ZTUtNDEzNi00ZDU5LWI2OTQtMmNlNjA4M2I5ZmQzZTY3Y2UyYzItNTFlNi00NmNiLWEyMmQtNGQwYTY2ZjhkZmNm&client-request-id=7aff2ad0-09b8-4b1e-8479-8411e46da479&state=jhUlY0eKOBGhCwBszXsn2xh56ylo8kZcBoIrXfP52bZeLuSIEVNvMzIt5s4imZCehs9nWfR-JTKA82SqvOJUuRzvrrNefoL9eOaNBWRkippG4pO9ZOcL4HJK3Rsmh6x9mZRdWCwmMxPcjp3QwHkkdWazeds4QxDX8QiUaVdSs9o_kkA43CAL8gbEEvMCOe9mkLghHfT0V460vel8J3elpvCDryBtalmfoark3ua_32ASMmoxGiy2wFyxXl7a58501LjwZqE1ToZtBSjp1GloVC4ir3F10bvXr8kARrkSdOlzJwxM7rYnZ_D-f1B53Mt5GeZ3aFRV31ydaRC2GHz2u7Vt-R_hf4XsxUUmBvASnHewWF_j0C2TUN9u3JXvDa8vPnqb3nYeiywior7ASrdd8A&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/db.sqlite redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.477223"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740944606512.NmM3NTQxZjAtNDQ1OC00MGRjLWI4Y2MtNDE3YTMwODE1MDBmMmE5ZmIzMDktYzVlMS00NDA4LWE5ZTEtMTU1ZGYzZmZmYmUx&client-request-id=170d3245-0887-4c7f-a48d-7d3c90b25211&state=eeyXMX_JTfkG3ReaAynNndiJg6Ufijrw5R65U8DNRsKbAvbKTbLAv7KpQKVSsgbcsKGFVevC8y5-yqQPCrm8riSsvC2o0LQS_MAQ8LxZOKrtakeR3eVzDbLrPbnNavQH8DPciLNS7j9JYJ6MFsYs2-BF5-xZsyVt5ZRtYfTrWBcRsWIcrZyoWsABWcsH9Yg60xh6MEG3XK1CApwBw-iH5F8ScWF9SfHPqjtNjxeLeQh9YgLUoRpYfzFWAsqd5wLdRNlvyNJB23f5qC8pLdWQwdPLqoLU33CILJirTnoWFhCdLePtFAYXM-C4vN-b_P1ZeF7TwQZcm-ZmEzU8SecxlL_HAZ0PUs3lKcIodcxEOKYPg7L8GygWs_XCZynJnNyKP6rNOss2bXQFLAbnc-c38w&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/server-status redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.483164"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740944971036.ZWU2YjIyMWEtZjNlYS00ZjhlLTlhZWItZDMwNzgyNTFmOWY5NDllOTYxZmUtYzFiOC00MjQ2LWJhODctOTAyMGQ1MTBkYTNk&client-request-id=727c333f-681d-4dad-ba6e-946c61a5eeb4&state=t73LvVf0AEFxTb7idpQ-Npigo1nRYVvhCL-LqQqhnGzqCua_6-09Yl48o96DlEzK7cfIYkTolRrvQAd4sAlTJRfaiKBH0m5v5NbnjwQ_Unjmu7J-15TcV3bSrkUKMOMVTbGnrIqjLH7LiCt7IGCX_nT7sdXoTVzrPbKyJprUyypQ-wTmEq8O5i4OodNWSDHH6f9oNUUXMxUFkJ5ixR1u24iy7R-zDDHG2PehYwoZcw7Wv70Rq69htIlpP60POVIK8kPwsj6aqim0sfCB95B8aVbsQtUYcMu30bAl2gHBZDJYGezKkcpZlEey48RNmDgopalUfUtkMIQr3YLyw2qJn4H4isp79vdDgFri5Y8OISsDz13dPiK1CaHcWvGQ0NGUrwPv2klYsCR8I7LJKsJJSA&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/server-info redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.600757"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740945154078.YjkyMWY4YTktOGQ5Yi00NzFjLTliNGItZTUxMzdiNjk4OTY5NGRhNjAxMDMtNjY3Zi00NzRjLWJmODItY2ZhZTc3NjkzNDIw&client-request-id=ea091cc1-ad04-43e4-b233-47430607faf9&state=Fqb_MFkX5MZE6DKZPeoZRSAmj5i6CSwaWqoRs8ODjxN2eu4hV1_gAjSesuOMGPe0bniQhxMzmKqjTXuPsn-wAThl0XkH4sro9BmV6tJL8b_crSHy06yvpz0YtvUzxzNGksFv-aaz-24_pz09EVqGik-Y7fAAluNcT-8Bt2OBo-lralvCkHUa2xMRJKTVXvOIBwTSUVjaL-Df67ZQgdG2X0rObpTuqC0hYKfuZC_LDHhMcgxsNb_unisnlPOyZNgcg0o93SyBJ4Mc5jAfXVosqtf_wooxYoPaDOWOV8Op-jDpSurpm7pY2DUJlEnZG-IG3SKxt1tXBHboXjsL6qxVJEX9GvCj0Zk1AvhjcsS6ECMEpb8_PQdUetpV_iKMKKZAB9sGR70KXukaHFJDyA5tjw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/phpinfo.php redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.688360"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740944723604.ZmY4M2NhMDQtYzg2YS00NDRhLTljYWYtNDFiMzk0MDhmMDk4ZjU1NjQ3YTktNmYxYy00M2FhLWI3MDUtOWMxMmI2YzdmMzNl&client-request-id=316f5c46-f996-423a-8a02-ce873ae88ca2&state=ALsBYDndAibo4QpD79fE-vP-10C8N5B4vXywFGh4Yl_-vGCR8UlUYKb3Tv1VXGIUGsoXQH4LqgLMpGmFZzED8BA6x9ZgwVOGH1U-4zVAflXAmLmOw3WPoHphjXDeJjzLfmYoa8a77mgBUhWm7fVQsR9Q3FfeyJmZQiROFMGsHUkwoS6mEwwIbAPyORx9PrmPGSU2X_sjpNEY4slbrWdpm1uCVm-8iC-XEg-rkUzOgEq1KGEpuepaQ4Pr71e4L2_WVPWopOv16LJZO7OY9GeuFsrtK8fWaUF6dnDYe114vkbTE5-WBvLPxEzHst0mKS6K1DQ3HcTwMQdKqe-UiMwojHIeZuYpy0XNZl_srKJoFmGnnkAOXW3URBufKHC4UgXZZWT0dtJbij-ZuerSTi5aLw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/data.sql.bak redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.701182"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740947750546.NTg1ZTRkM2QtN2U2ZS00ZjVmLWI3MjYtZDA4YTZhMDBkZDQzMjQ2MmYwZTQtY2Y1NS00ZmM5LTg0NjEtOTY2NmM5OGQ3Mzg5&client-request-id=4d5e2a92-8e52-4cc3-97b1-f7e910538c84&state=jEHHRvIe8T-XDRuYMVEWNRbhC-Qw8KFpS2pAEg2tZ_jBDNmsLu3lc89fYGEjKT45AfNzsvozEjCllqnaQ_lc-Ar9M-ZxsOxAcljnGmmTKDlCrF33k73BtI1ZadkoX8xKKOev4pkY34hRehBsoHBFsvqiD0GxFD_Jk9uyIZW1bitGUDXpuq_FRpcJ8Bh_Lq4GkMiA_68FSJwKgN3jvTe20Yj9dUV45ieeZoO1Yg2-ndABECzGEuuRmovtrg1fMVzhRz9vvccNDGPC5mnYqLAl59OFJXjOBVdlYWWxDZfx40AGkJN0XN8WgmHJfKlP_W-9HG2GGMbPQfxnSCNPMxM8XBm5enOnFexh8O_lk64ovyt9dX90SnSS28kAPY1gnlg0aPWTo3R5_7KrH_dmdH03lQ&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/elmah.axd redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:35.763927"
+  },
+  {
+    "source": "direct_http_verifier",
+    "reference_value": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fm365.cloud.microsoft%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20offline_access%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639286740952675410.YWM2NWE4YTItYWI4OC00Y2Q4LWE0ODEtMGVkMDcxODc1NGJmZmE4ZDVjZDUtMzFmMS00ODE1LThmOWUtZmM2MTViOTJmMjJi&client-request-id=2e757634-fa55-480d-a354-d8c9678f96ee&state=n0mg4F83t3WATs4AZntUJ6y3po0MYdX3OZOHed_Y9ceBCKVZmjcFJC0HX0omwhIoUUV4sk-89Qz3K9Fv2chZYS16dfWypVoVjo2kfRUtBfjAT62kGiK4-72g1ckpEFN2uIjoX9fW12KB6xYJmBP8tULYmMurgjKaTBKkcVMpv5XCtkBKnPo8ol270SlO-fIWt8OlHcj2p5am88vCm5XM_p4wsdfaTk5dEo4kWTnX-jvp144y6bGxnh86ve03BMmXuSdOyvK0mQUV6NxQbnZLqse6_c40ojcrVRixWpJeNotTcjTdkIk_T9U-LzrOOvD9CVjrU7XLeeiLg6avcnwMCQsYXXhmooB8jhgVTBHgTCeknAk_Qp_E1njtC9mPOVIWeMZe_jwM33iMKqLy_0ncGw&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0",
+    "relation_type": "REDIRECT_EXTERNAL",
+    "details": "Petición a https://sf.dian.gov.co/trace.axd redirigió fuera de alcance a login.microsoftonline.com",
+    "timestamp": "2026-10-27T00:01:36.116262"
+  }
+]

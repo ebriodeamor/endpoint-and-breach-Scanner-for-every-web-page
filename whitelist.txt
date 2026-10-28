@@ -1,0 +1,7 @@
+# Lista blanca de produccion - NadieScan
+# Dominios autorizados para auditoria.
+# Formato: dominio.com (puerto opcional)
+
+127.0.0.1
+localhost
+www.bancolombia.com

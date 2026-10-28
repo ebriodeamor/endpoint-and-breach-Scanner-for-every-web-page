@@ -1,0 +1,18 @@
+========================================================================
+REPORTE DETALLADO NADIESCAN - https://agendamientodigiturno.dian.gov.co
+Fecha: 2026-10-26 21:54:07
+========================================================================
+
+[FINGERPRINT DEL SERVIDOR]
+URL Objetivo: https://agendamientodigiturno.dian.gov.co
+Status:       None
+Server:       None
+Tecnologías:  Ninguna detectada
+
+========================================================================
+[ENDPOINTS ENCONTRADOS Y DATOS DEVUELTOS (0)]
+========================================================================
+No se descubrieron endpoints públicos o con datos expuestos.
+
+Total probados: 1165 | Hallazgos válidos: 0
+========================================================================

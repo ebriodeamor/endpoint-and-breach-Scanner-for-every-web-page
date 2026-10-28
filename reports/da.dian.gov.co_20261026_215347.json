@@ -1,0 +1,13 @@
+{
+  "target": "https://da.dian.gov.co",
+  "time": "2026-10-26T21:53:47.976241",
+  "audit": {
+    "url": "https://da.dian.gov.co",
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='da.dian.gov.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000011FC2B47750>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+    "ts": "2026-10-26T21:53:42.990217",
+    "elapsed": 0.08
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

@@ -1,0 +1,123 @@
+{
+  "target": "https://conexion.dian.gov.co",
+  "time": "2026-10-26T23:19:07.179058",
+  "audit": {
+    "url": "https://conexion.dian.gov.co",
+    "ok": true,
+    "error": null,
+    "ts": "2026-10-26T23:18:52.476725",
+    "status": 200,
+    "final_url": "https://conexion.dian.gov.co/",
+    "redirects": [],
+    "elapsed": 0.73,
+    "content_type": "text/html",
+    "length": 2347,
+    "server": "Microsoft-IIS/10.0",
+    "tech": [
+      "X-Powered-By: ASP.NET"
+    ],
+    "sec": [
+      {
+        "header": "strict-transport-security",
+        "desc": "HSTS",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "content-security-policy",
+        "desc": "CSP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-frame-options",
+        "desc": "Anti-Clickjacking",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-content-type-options",
+        "desc": "MIME Sniffing",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "referrer-policy",
+        "desc": "Referrer Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "permissions-policy",
+        "desc": "Permissions Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-resource-policy",
+        "desc": "CORP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-opener-policy",
+        "desc": "COOP",
+        "ok": false,
+        "val": null
+      }
+    ],
+    "cookies": [
+      {
+        "name": "ARRAffinity",
+        "secure": true,
+        "httponly": false
+      },
+      {
+        "name": "ARRAffinitySameSite",
+        "secure": true,
+        "httponly": false
+      }
+    ],
+    "headers": {
+      "content-length": "1492",
+      "content-type": "text/html",
+      "date": "Tue, 27 Oct 2026 04:18:52 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "accept-ranges": "bytes",
+      "content-encoding": "gzip",
+      "etag": "\"1d7eab650b974ab\"",
+      "last-modified": "Mon, 06 Dec 2021 15:31:19 GMT",
+      "set-cookie": "ARRAffinity=e5d89797ff86138b1ab5001da08dac0378b84620ebc2a4140fe2964ef3cb1a40;Path=/;HttpOnly;Secure;Domain=conexion.dian.gov.co, ARRAffinitySameSite=e5d89797ff86138b1ab5001da08dac0378b84620ebc2a4140fe2964ef3cb1a40;Path=/;HttpOnly;SameSite=None;Secure;Domain=conexion.dian.gov.co",
+      "vary": "Accept-Encoding",
+      "request-context": "appId=cid-v1:b8691a3e-fb9e-494d-8746-f153d8b48799",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  "endpoints": [
+    {
+      "path": "/manifest.json",
+      "params": null,
+      "url": "https://conexion.dian.gov.co/manifest.json",
+      "found": true,
+      "status": 200,
+      "duration": 0.6,
+      "content_type": "application/json",
+      "length": 321,
+      "json_keys": [
+        "short_name",
+        "name",
+        "icons",
+        "start_url",
+        "display",
+        "theme_color",
+        "background_color"
+      ],
+      "body_preview": "{\"short_name\": React App, \"name\": Create React App Sample, \"icons\": [{\"src\": \"favicon.ico\", \"sizes\": \"64x64 , \"start_url\": ., \"display\": standalone, \"theme_color\": #000000, \"background_color\": #ffffff}",
+      "notes": "API JSON",
+      "interest": 4,
+      "final_url": "https://conexion.dian.gov.co/manifest.json",
+      "data_sample": "{\"short_name\": React App, \"name\": Create React App Sample, \"icons\": [{\"src\": \"favicon.ico\", \"sizes\": \"64x64 , \"start_url\": ., \"display\": standalone, \"theme_color\": #000000, \"background_color\": #ffffff}"
+    }
+  ],
+  "total_probed": 1171
+}

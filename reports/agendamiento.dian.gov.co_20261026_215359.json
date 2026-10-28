@@ -1,0 +1,105 @@
+{
+  "target": "https://agendamiento.dian.gov.co",
+  "time": "2026-10-26T21:53:59.552178",
+  "audit": {
+    "url": "https://agendamiento.dian.gov.co",
+    "ok": true,
+    "error": null,
+    "ts": "2026-10-26T21:53:47.979592",
+    "status": 200,
+    "final_url": "https://agendamiento.dian.gov.co/",
+    "redirects": [],
+    "elapsed": 0.52,
+    "content_type": "text/html; charset=utf-8",
+    "length": 6589,
+    "server": "No expuesto",
+    "tech": [
+      "Azure"
+    ],
+    "sec": [
+      {
+        "header": "strict-transport-security",
+        "desc": "HSTS",
+        "ok": true,
+        "val": "max-age=31536000"
+      },
+      {
+        "header": "content-security-policy",
+        "desc": "CSP",
+        "ok": true,
+        "val": "default-src 'self' 'unsafe-inline';             script-src 'self' 'unsafe-inline'               https://maps.googleapis.com               https://www.googletagmanager.com            https://www.google.com               https://www.gstatic.com               https://www.recaptcha.net;             style-src-elem 'self' 'unsafe-inline'                 https://fonts.googleapis.com;             connect-src 'self'        blob:        https://maps.googleapis.com                https://www.google-analytics.com            https://www.google.com                https://www.gstatic.com;             frame-src 'self'                https://www.google.com                https://www.recaptcha.net;             img-src 'self' data:;             form-action 'self';             frame-ancestors 'self';"
+      },
+      {
+        "header": "x-frame-options",
+        "desc": "Anti-Clickjacking",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-content-type-options",
+        "desc": "MIME Sniffing",
+        "ok": true,
+        "val": "nosniff"
+      },
+      {
+        "header": "referrer-policy",
+        "desc": "Referrer Policy",
+        "ok": true,
+        "val": "no-referrer"
+      },
+      {
+        "header": "permissions-policy",
+        "desc": "Permissions Policy",
+        "ok": true,
+        "val": "fullscreen=(self), camera=(), microphone=(), geolocation=(self)"
+      },
+      {
+        "header": "cross-origin-resource-policy",
+        "desc": "CORP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-opener-policy",
+        "desc": "COOP",
+        "ok": false,
+        "val": null
+      }
+    ],
+    "cookies": [
+      {
+        "name": "ASP.NET_SessionId",
+        "secure": true,
+        "httponly": false
+      },
+      {
+        "name": "client-id",
+        "secure": true,
+        "httponly": false
+      }
+    ],
+    "headers": {
+      "date": "Tue, 27 Oct 2026 02:53:48 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "6589",
+      "connection": "keep-alive",
+      "cache-control": "private",
+      "set-cookie": "ASP.NET_SessionId=d1qpa04qvelzr04j2yun0drc; path=/; secure; HttpOnly; SameSite=Lax, client-id=d38bd4004b0a4b88badc01b27b4fe1fc#639286664280078431#172.24.228.*; expires=Thu, 26-Nov-2026 02:53:48 GMT; path=/; secure; HttpOnly; SameSite=Lax",
+      "request-context": "appId=cid-v1:5cf9317a-d502-4841-b468-6ea8c0dabb97",
+      "access-control-expose-headers": "Request-Context",
+      "strict-transport-security": "max-age=31536000",
+      "content-security-policy": "default-src 'self' 'unsafe-inline';             script-src 'self' 'unsafe-inline'               https://maps.googleapis.com               https://www.googletagmanager.com            https://www.google.com               https://www.gstatic.com               https://www.recaptcha.net;             style-src-elem 'self' 'unsafe-inline'                 https://fonts.googleapis.com;             connect-src 'self'        blob:        https://maps.googleapis.com                https://www.google-analytics.com            https://www.google.com                https://www.gstatic.com;             frame-src 'self'                https://www.google.com                https://www.recaptcha.net;             img-src 'self' data:;             form-action 'self';             frame-ancestors 'self';",
+      "access-control-allow-headers": "content-type",
+      "x-xss-protection": "1; mode=block",
+      "x-content-type-options": "nosniff",
+      "x-permitted-cross-domain-policies": "none",
+      "referrer-policy": "no-referrer",
+      "permissions-policy": "fullscreen=(self), camera=(), microphone=(), geolocation=(self)",
+      "x-azure-ref": "20261027T025347Z-16699b5bdb8kq8h4hC1MIA8t3000000009gg00000000azm5",
+      "x-cache": "CONFIG_NOCACHE",
+      "accept-ranges": "bytes"
+    }
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

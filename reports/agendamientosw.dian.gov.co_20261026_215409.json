@@ -1,0 +1,13 @@
+{
+  "target": "https://agendamientosw.dian.gov.co",
+  "time": "2026-10-26T21:54:09.476052",
+  "audit": {
+    "url": "https://agendamientosw.dian.gov.co",
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='agendamientosw.dian.gov.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000011FC345B890>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+    "ts": "2026-10-26T21:54:07.936432",
+    "elapsed": 0.04
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

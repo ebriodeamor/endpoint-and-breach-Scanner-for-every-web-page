@@ -1,0 +1,5 @@
+Consulta estructurada generada para indexadores públicos:
+  Query:   site:www.dian.gov.co intitle:"index of" | intitle:"directory listing"
+  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22
+  Objetivo: Detección de índices web accesibles sin página por defecto.
+Estado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.

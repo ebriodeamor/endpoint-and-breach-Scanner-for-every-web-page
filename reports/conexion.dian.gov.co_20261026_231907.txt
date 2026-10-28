@@ -1,0 +1,25 @@
+========================================================================
+REPORTE DETALLADO NADIESCAN - https://conexion.dian.gov.co
+Fecha: 2026-10-26 23:19:07
+========================================================================
+
+[FINGERPRINT DEL SERVIDOR]
+URL Objetivo: https://conexion.dian.gov.co
+Status:       200
+Server:       Microsoft-IIS/10.0
+Tecnologías:  X-Powered-By: ASP.NET
+
+========================================================================
+[ENDPOINTS ENCONTRADOS Y DATOS DEVUELTOS (1)]
+========================================================================
+
+[#1] https://conexion.dian.gov.co/manifest.json
+  • Estado HTTP:   [200] API JSON
+  • Content-Type:  application/json (321 bytes en 0.6s)
+  • Campos JSON:   short_name, name, icons, start_url, display, theme_color, background_color
+  • Info / Datos devueltos:
+    | {"short_name": React App, "name": Create React App Sample, "icons": [{"src": "favicon.ico", "sizes": "64x64 , "start_url": ., "display": standalone, "
+------------------------------------------------------------------------
+
+Total probados: 1171 | Hallazgos válidos: 1
+========================================================================

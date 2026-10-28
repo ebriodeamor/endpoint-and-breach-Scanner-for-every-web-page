@@ -1,0 +1,83 @@
+{
+  "target": "https://api.dian.gov.co",
+  "time": "2026-10-26T21:54:24.529779",
+  "audit": {
+    "url": "https://api.dian.gov.co",
+    "ok": true,
+    "error": null,
+    "ts": "2026-10-26T21:54:13.765032",
+    "status": 200,
+    "final_url": "https://api.dian.gov.co/",
+    "redirects": [],
+    "elapsed": 0.21,
+    "content_type": "text/html",
+    "length": 44,
+    "server": "Apache",
+    "tech": [],
+    "sec": [
+      {
+        "header": "strict-transport-security",
+        "desc": "HSTS",
+        "ok": true,
+        "val": "max-age=31536000; includeSubDomains"
+      },
+      {
+        "header": "content-security-policy",
+        "desc": "CSP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-frame-options",
+        "desc": "Anti-Clickjacking",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "x-content-type-options",
+        "desc": "MIME Sniffing",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "referrer-policy",
+        "desc": "Referrer Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "permissions-policy",
+        "desc": "Permissions Policy",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-resource-policy",
+        "desc": "CORP",
+        "ok": false,
+        "val": null
+      },
+      {
+        "header": "cross-origin-opener-policy",
+        "desc": "COOP",
+        "ok": false,
+        "val": null
+      }
+    ],
+    "cookies": [],
+    "headers": {
+      "date": "Tue, 27 Oct 2026 02:54:13 GMT",
+      "server": "Apache",
+      "last-modified": "Tue, 22 Mar 2022 14:21:14 GMT",
+      "etag": "\"2c-5dacf53510cf9\"",
+      "accept-ranges": "bytes",
+      "content-length": "44",
+      "keep-alive": "timeout=5, max=87",
+      "connection": "Keep-Alive",
+      "content-type": "text/html",
+      "strict-transport-security": "max-age=31536000; includeSubDomains"
+    }
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

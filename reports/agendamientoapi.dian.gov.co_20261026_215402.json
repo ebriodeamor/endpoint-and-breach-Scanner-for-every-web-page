@@ -1,0 +1,13 @@
+{
+  "target": "https://agendamientoapi.dian.gov.co",
+  "time": "2026-10-26T21:54:02.785258",
+  "audit": {
+    "url": "https://agendamientoapi.dian.gov.co",
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='agendamientoapi.dian.gov.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000011FC3458B90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+    "ts": "2026-10-26T21:54:01.200561",
+    "elapsed": 0.04
+  },
+  "endpoints": [],
+  "total_probed": 1165
+}

@@ -1,0 +1,18 @@
+========================================================================
+REPORTE DETALLADO NADIESCAN - https://compilacionjuridica.dian.gov.co
+Fecha: 2026-10-26 23:18:52
+========================================================================
+
+[FINGERPRINT DEL SERVIDOR]
+URL Objetivo: https://compilacionjuridica.dian.gov.co
+Status:       200
+Server:       Microsoft-IIS/10.0
+Tecnologías:  X-Powered-By: ASP.NET
+
+========================================================================
+[ENDPOINTS ENCONTRADOS Y DATOS DEVUELTOS (0)]
+========================================================================
+No se descubrieron endpoints públicos o con datos expuestos.
+
+Total probados: 1165 | Hallazgos válidos: 0
+========================================================================

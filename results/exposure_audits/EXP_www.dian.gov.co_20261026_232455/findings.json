@@ -1,0 +1,112 @@
+[
+  {
+    "id": "EXP-001",
+    "target_asset": "www.dian.gov.co",
+    "exposure_type": "BACKUP_DATABASE_EXPOSURE",
+    "source": "osint_search_engines",
+    "reference_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29",
+    "timestamp": "2026-10-26T23:24:56.999972",
+    "verification_status": "OBSERVATION",
+    "evidence": "Consulta estructurada generada para indexadores públicos:\n  Query:   site:www.dian.gov.co (ext:sql | ext:dump | ext:bak | ext:backup | ext:db)\n  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29\n  Objetivo: Búsqueda de archivos SQL, respaldos o volcados de datos indexados públicamente.\nEstado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.",
+    "potential_risk": "Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.",
+    "demonstrated_impact": "Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.",
+    "remediation": "Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.",
+    "limitations": "La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.",
+    "severity": "BAJO",
+    "reproduction_steps": "Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29 en un navegador autorizado y revisar los resultados devueltos.",
+    "extra_metadata": {
+      "query": "site:www.dian.gov.co (ext:sql | ext:dump | ext:bak | ext:backup | ext:db)",
+      "google_url": "https://www.google.com/search?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29",
+      "ddg_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Asql%20%7C%20ext%3Adump%20%7C%20ext%3Abak%20%7C%20ext%3Abackup%20%7C%20ext%3Adb%29",
+      "evidence_file": "evidence/ev_EXP-001.txt"
+    }
+  },
+  {
+    "id": "EXP-002",
+    "target_asset": "www.dian.gov.co",
+    "exposure_type": "EXPOSED_CONFIG",
+    "source": "osint_search_engines",
+    "reference_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29",
+    "timestamp": "2026-10-26T23:24:57.000069",
+    "verification_status": "OBSERVATION",
+    "evidence": "Consulta estructurada generada para indexadores públicos:\n  Query:   site:www.dian.gov.co (ext:env | ext:yml | ext:json | inurl:web.config | inurl:settings)\n  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29\n  Objetivo: Búsqueda de configuraciones y definiciones con posibles secretos expuestos.\nEstado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.",
+    "potential_risk": "Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.",
+    "demonstrated_impact": "Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.",
+    "remediation": "Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.",
+    "limitations": "La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.",
+    "severity": "BAJO",
+    "reproduction_steps": "Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29 en un navegador autorizado y revisar los resultados devueltos.",
+    "extra_metadata": {
+      "query": "site:www.dian.gov.co (ext:env | ext:yml | ext:json | inurl:web.config | inurl:settings)",
+      "google_url": "https://www.google.com/search?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29",
+      "ddg_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Aenv%20%7C%20ext%3Ayml%20%7C%20ext%3Ajson%20%7C%20inurl%3Aweb.config%20%7C%20inurl%3Asettings%29",
+      "evidence_file": "evidence/ev_EXP-002.txt"
+    }
+  },
+  {
+    "id": "EXP-003",
+    "target_asset": "www.dian.gov.co",
+    "exposure_type": "DIRECTORY_LISTING",
+    "source": "osint_search_engines",
+    "reference_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22",
+    "timestamp": "2026-10-26T23:24:57.000119",
+    "verification_status": "OBSERVATION",
+    "evidence": "Consulta estructurada generada para indexadores públicos:\n  Query:   site:www.dian.gov.co intitle:\"index of\" | intitle:\"directory listing\"\n  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22\n  Objetivo: Detección de índices web accesibles sin página por defecto.\nEstado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.",
+    "potential_risk": "Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.",
+    "demonstrated_impact": "Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.",
+    "remediation": "Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.",
+    "limitations": "La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.",
+    "severity": "BAJO",
+    "reproduction_steps": "Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22 en un navegador autorizado y revisar los resultados devueltos.",
+    "extra_metadata": {
+      "query": "site:www.dian.gov.co intitle:\"index of\" | intitle:\"directory listing\"",
+      "google_url": "https://www.google.com/search?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22",
+      "ddg_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20intitle%3A%22index%20of%22%20%7C%20intitle%3A%22directory%20listing%22",
+      "evidence_file": "evidence/ev_EXP-003.txt"
+    }
+  },
+  {
+    "id": "EXP-004",
+    "target_asset": "www.dian.gov.co",
+    "exposure_type": "SENSITIVE_FILE_EXPOSURE",
+    "source": "osint_search_engines",
+    "reference_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29",
+    "timestamp": "2026-10-26T23:24:57.000144",
+    "verification_status": "OBSERVATION",
+    "evidence": "Consulta estructurada generada para indexadores públicos:\n  Query:   site:www.dian.gov.co (ext:pdf | ext:xlsx | ext:docx | ext:csv) (\"confidencial\" | \"privado\" | \"interno\")\n  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29\n  Objetivo: Búsqueda de documentos corporativos o datos personales indexados por motores de búsqueda.\nEstado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.",
+    "potential_risk": "Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.",
+    "demonstrated_impact": "Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.",
+    "remediation": "Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.",
+    "limitations": "La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.",
+    "severity": "BAJO",
+    "reproduction_steps": "Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29 en un navegador autorizado y revisar los resultados devueltos.",
+    "extra_metadata": {
+      "query": "site:www.dian.gov.co (ext:pdf | ext:xlsx | ext:docx | ext:csv) (\"confidencial\" | \"privado\" | \"interno\")",
+      "google_url": "https://www.google.com/search?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29",
+      "ddg_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20%28ext%3Apdf%20%7C%20ext%3Axlsx%20%7C%20ext%3Adocx%20%7C%20ext%3Acsv%29%20%28%22confidencial%22%20%7C%20%22privado%22%20%7C%20%22interno%22%29",
+      "evidence_file": "evidence/ev_EXP-004.txt"
+    }
+  },
+  {
+    "id": "EXP-005",
+    "target_asset": "www.dian.gov.co",
+    "exposure_type": "DIAGNOSTIC_INTERFACE",
+    "source": "osint_search_engines",
+    "reference_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator",
+    "timestamp": "2026-10-26T23:24:57.000167",
+    "verification_status": "OBSERVATION",
+    "evidence": "Consulta estructurada generada para indexadores públicos:\n  Query:   site:www.dian.gov.co inurl:phpinfo | inurl:server-status | inurl:actuator\n  Enlace:  https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator\n  Objetivo: Identificación de interfaces diagnósticas indexadas públicamente.\nEstado: Requiere validación manual por el auditor en el navegador para comprobar si existen registros activos.",
+    "potential_risk": "Presencia de recursos corporativos internos indexados por motores de búsqueda comerciales.",
+    "demonstrated_impact": "Definición y registro de vectores de búsqueda pasiva sobre el dominio auditado.",
+    "remediation": "Verificar la directiva 'Disallow' en robots.txt e implementar encabezados 'X-Robots-Tag: noindex, nofollow' en áreas que no deban ser indexadas.",
+    "limitations": "La presencia de una consulta estructurada no confirma la existencia de vulnerabilidades sin validación humana interactiva.",
+    "severity": "BAJO",
+    "reproduction_steps": "Visitar https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator en un navegador autorizado y revisar los resultados devueltos.",
+    "extra_metadata": {
+      "query": "site:www.dian.gov.co inurl:phpinfo | inurl:server-status | inurl:actuator",
+      "google_url": "https://www.google.com/search?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator",
+      "ddg_url": "https://duckduckgo.com/?q=site%3Awww.dian.gov.co%20inurl%3Aphpinfo%20%7C%20inurl%3Aserver-status%20%7C%20inurl%3Aactuator",
+      "evidence_file": "evidence/ev_EXP-005.txt"
+    }
+  }
+]
